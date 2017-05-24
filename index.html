@@ -1,0 +1,188 @@
+<!DOCTYPE html><html><head> <script type="text/javascript">
+
+if (document.layers) {
+
+    //Capture the MouseDown event.
+
+    document.captureEvents(Event.MOUSEDOWN);
+
+ 
+
+    //Disable the OnMouseDown event handler.
+
+    document.onmousedown = function () {
+
+        return false;
+
+    };
+
+}
+
+else {
+
+    //Disable the OnMouseUp event handler.
+
+    document.onmouseup = function (e) {
+
+        if (e != null && e.type == "mouseup") {
+
+            //Check the Mouse Button which is clicked.
+
+            if (e.which == 2 || e.which == 3) {
+
+                //If the Button is middle or right then disable.
+
+                return false;
+
+            }
+
+        }
+
+    };
+
+}
+
+ 
+
+//Disable the Context Menu event.
+
+document.oncontextmenu = function () {
+
+    return false;
+
+};
+
+</script>
+
+ 
+
+<script>
+    shortcut = {
+    all_shortcuts: {},
+      add: function (e, t, n) {
+        var r = {
+          type: "keydown",
+          propagate: !1,
+          disable_in_input: !1,
+          target: document,
+          keycode: !1
+        };
+        if (n) for (var i in r) "undefined" == typeof n[i] && (n[i] = r[i]);
+        else n = r;
+        r = n.target, "string" == typeof n.target && (r = document.getElementById(n.target)), e = e.toLowerCase(), i = function (r) {
+          r = r || window.event;
+          if (n.disable_in_input) {
+            var i;
+            r.target ? i = r.target : r.srcElement && (i = r.srcElement), 3 == i.nodeType && (i = i.parentNode);
+            if ("INPUT" == i.tagName || "TEXTAREA" == i.tagName) return
+          }
+          r.keyCode ? code = r.keyCode : r.which && (code = r.which), i = String.fromCharCode(code).toLowerCase(), 188 == code && (i = ","), 190 == code && (i = ".");
+          var s = e.split("+"),
+            o = 0,
+            u = {
+              "`": "~",
+              1: "!",
+              2: "@",
+              3: "#",
+              4: "$",
+              5: "%",
+              6: "^",
+              7: "&",
+              8: "*",
+              9: "(",
+              0: ")",
+              "-": "_",
+              "=": "+",
+              ";": ":",
+              "'": '"',
+              ",": "<",
+              ".": ">",
+              "/": "?",
+              "\\": "|"
+            }, f = {
+              esc: 27,
+              escape: 27,
+              tab: 9,
+              space: 32,
+              "return": 13,
+              enter: 13,
+              backspace: 8,
+              scrolllock: 145,
+              scroll_lock: 145,
+              scroll: 145,
+              capslock: 20,
+              caps_lock: 20,
+              caps: 20,
+              numlock: 144,
+              num_lock: 144,
+              num: 144,
+              pause: 19,
+              "break": 19,
+              insert: 45,
+              home: 36,
+              "delete": 46,
+              end: 35,
+              pageup: 33,
+              page_up: 33,
+              pu: 33,
+              pagedown: 34,
+              page_down: 34,
+              pd: 34,
+              left: 37,
+              up: 38,
+              right: 39,
+              down: 40,
+              f1: 112,
+              f2: 113,
+              f3: 114,
+              f4: 115,
+              f5: 116,
+              f6: 117,
+              f7: 118,
+              f8: 119,
+              f9: 120,
+              f10: 121,
+              f11: 122,
+              f12: 123
+            }, l = !1,
+            c = !1,
+            h = !1,
+            p = !1,
+            d = !1,
+            v = !1,
+            m = !1,
+            y = !1;
+          r.ctrlKey && (p = !0), r.shiftKey && (c = !0), r.altKey && (v = !0), r.metaKey && (y = !0);
+          for (var b = 0; k = s[b], b < s.length; b++) "ctrl" == k || "control" == k ? (o++, h = !0) : "shift" == k ? (o++, l = !0) : "alt" == k ? (o++, d = !0) : "meta" == k ? (o++, m = !0) : 1 < k.length ? f[k] == code && o++ : n.keycode ? n.keycode == code && o++ : i == k ? o++ : u[i] && r.shiftKey && (i = u[i], i == k && o++);
+          if (o == s.length && p == h && c == l && v == d && y == m && (t(r), !n.propagate)) return r.cancelBubble = !0, r.returnValue = !1, r.stopPropagation && (r.stopPropagation(), r.preventDefault()), !1
+        }, this.all_shortcuts[e] = {
+          callback: i,
+          target: r,
+          event: n.type
+        }, r.addEventListener ? r.addEventListener(n.type, i, !1) : r.attachEvent ? r.attachEvent("on" + n.type, i) : r["on" + n.type] = i
+      },
+      remove: function (e) {
+        var e = e.toLowerCase(),
+          t = this.all_shortcuts[e];
+        delete this.all_shortcuts[e];
+        if (t) {
+          var e = t.event,
+            n = t.target,
+            t = t.callback;
+          n.detachEvent ? n.detachEvent("on" + e, t) : n.removeEventListener ? n.removeEventListener(e, t, !1) : n["on" + e] = !1
+        }
+      }
+    },
+     shortcut.add("Ctrl+U",function(){
+     alert('Sorry\nNo CTRL+U is allowed. Be creative!')
+    }),
+     shortcut.add("Meta+Alt+U",function(){
+     alert('Sorry\nNo Command+Option+U is allowed. Be creative!')
+    }),
+    shortcut.add("Ctrl+C",function(){
+     alert('Sorry\nNever duplicate this article...')
+    }),
+    shortcut.add("Meta+C",function(){
+     alert('Sorry\nNever duplicate this article...')
+    });
+    </script><title>Aditya Khakhria - Designer & Developer from Gujarat</title> <meta name="Description" content="An entrepreneur. Founder of Aditya 'Sturdy Technology' , Designer &amp; developer from gujarat."> <meta name="Keywords" content="aditya khakhria, Aditya , Aditya Khakhria , web design , web development, branding, motion, aditya technologies, gujarat, gandhidham, kutch , web developers gandhidham , best web developer in gujarat , best web designer in gujarat , front-end developer , app developer in gujarat , best web developer in gandhidham"> <meta name="robots" content="INDEX, FOLLOW"> <meta name="geo.placename" content="India"> <meta name="geo.region" content="AR"> <meta charset="utf-8"> <meta name="viewport" content="width=device-width, initial-scale=1.0, minimal-ui"> <link rel="canonical" href="http://www.adityak.com/"> <meta name="theme-color" content="#2c3c4c"> <meta property="og:type" content="website"> <meta property="og:site_name" content="aditya khakhria"> <meta property="og:title" content="aditya khakhria - Designer &amp; Developer from gujarat."> <meta property="og:description" content="An entrepreneur. Founder of aditya technologies! Designer &amp; developer from gujarat."> <meta property="og:image" content="logo.png"> <meta property="og:url" content="https://www.adityak.com/"> <meta property="twitter:card" content="summary"> <meta property="twitter:site" content="@aditya technologies"> <meta property="twitter:title" content="aditya khakhria - Designer &amp; Developer from gujarat."> <meta property="twitter:description" content="An entrepreneur. Founder of aditya technologies! Designer &amp; developer from gujarat."> <meta property="twitter:image" content="/img/meta-image.jpg"> <meta property="twitter:url" content="http://www.adityak.com/"> <style>@import url(hehe.css); </style> <script src="uqr2sij.js"></script></head><body class="loading"> <main id="main"> <input class="nav__input" id="flag" type="checkbox" checked=""><label class="nav__label" for="flag"></label></div></nav> <nav class="nav--dots"> <div class="nav__list"><a class="nav__element nav__element--current" href="#landing"></a><a class="nav__element" href="#about"></a><a class="nav__element" href="#designer"></a><a class="nav__element" href="#developer"></a></div></nav> <section id="landing"> <ul class="parallax"> <li class="parallax__layer" data-depth="0.20"> <div class="parallax__content mac"></div></li><li class="parallax__layer" data-depth="0.50"> <div class="parallax__content book"> <div class="book__content"> <h4 class="book__title">To-do list</h4> <ul class="book__list"> <li class="book_element">- Design an app.</li><li class="book_element book__element--completed">- Translate content.</li></ul> </div></div></li><li class="parallax__layer" data-depth="0.25"> <div class="parallax__content cup"></div></li><li class="parallax__layer" data-depth="0.60"> <div class="parallax__content clock"> <div class="clock__content"> <div class="clock__hour"></div><div class="clock__minute"></div><div class="clock__second"></div></div></div></li><li class="parallax__layer" data-depth="0.99"> <div class="parallax__content pen"></div></li><li class="parallax__layer visible" data-depth="0.20"> <div class="invisible-square"></div></li><li class="parallax__layer" data-depth="0.55"> <div class="parallax__content plant"></div></li><li class="parallax__layer visible" data-depth="0.00"> <div class="background"></div><div class="background background--loading"></div></li><li class="parallax__layer visible" data-depth="0.20"> <div class="invisible-square invisible-square--loading"></div></li><li class="parallax__layer visible" data-depth="0.25"> <div class="top-line"></div></li><li class="parallax__layer visible" data-depth="0.28"> <div class="top-circle top-circle--loading"></div></li><li class="parallax__layer visible" data-depth="0.27"> <div class="middle-wave"></div></li><li class="parallax__layer visible parallax__layer--main" data-depth="0.15"> <div class="hero parallax__no-translate"> <h1 class="hero__title">ak.</h1> <h3 class="hero__subtitle" id="typer" data-typer-targets="Entrepreneur. Web/ui Designer &amp; Developer ,Crafting wonderful things in this world!"></h3> <div class="modal"> <div class="modal__action"> <a href="mailto:adkhakhs0412@gmail.com"><button class="btn" data-type="modal-trigger" tabindex="2">Hire me!</button></a> <span class="modal__bg"></span> <span class="or">or</span> <a class="underline underline--active" href="projects2/index.html" title="My projects" tabindex="3">My Projects</a></div><!-- <div class="modal__container"> <div class="modal__content"> <form class="nl-form" id="nl-form" action="" method="post"> <span>Hey Aditya! My name is </span> <div class="keep-together" ><input id="formFullName" type="email" name="name" value="" placeholder="John Doe"><span>,</span></div><br><span>I'm in need of </span> <div class="keep-together" > <select name="project" id="Website"> <option value="a-website" selected="">a website</option> <option value="brand-design">brand design</option> <option value="app-development">app development </option> <option value="motion-design">motion design</option> <option value="graphic-design">graphic design</option> <option value="something-else">something else</option> </select> <span>.</span> </div><br><span>I've got a rough budget of </span> <div class="keep-together"> <select name="budget" id="Rate"> <option value="10000" selected="">< 10000 INR</option> <option value="10000-35000">10000 - 35000 INR</option> <option value="35000-70000">35000 - 70000 INR</option> <option value="70000"> >70000 INR</option> </select> <span></span> </div><br><span>Please reach out at </span> <div class="keep-together"><input id="formEmail" type="email" name="email" value="email" placeholder="email@domain.com"><span>.</span></div><div class="submit-wrapper"> <div class="progress-button" id="progress-button"> <button id="SendBtn"><span>Send</span></button> <a id="SendLink"></a> <svg width="70" height="70" class="progress-circle"> <path d="m35,2.5c17.955803,0 32.5,14.544199 32.5,32.5c0,17.955803 -14.544197,32.5 -32.5,32.5c-17.955803,0 -32.5,-14.544197 -32.5,-32.5c0,-17.955801 14.544197,-32.5 32.5,-32.5z"></path> </svg> <svg width="70" height="70" class="checkmark"> <path d="m31.5,46.5l15.3,-23.2"></path> <path d="m31.5,46.5l-8.5,-7.1"></path> </svg> <svg width="70" height="70" class="cross"> <path d="m35,35l-9.3,-9.3"></path> <path d="m35,35l9.3,9.3"></path> <path d="m35,35l-9.3,9.3"></path> <path d="m35,35l9.3,-9.3"></path> </svg> </div><p class="formMessage error" id="errorValues">There's been an error. Did you fill all the fields?</p><p class="formMessage error" id="errorServer">There's been an error. Please try again later.</p><p class="formMessage success" id="success">Perfect! I'll be in touch soon.</p></div><div class="nl-overlay"></div></form> <div id="sherlockHolmes"> <div class="quote"><q>The world is full of obvious things which nobody by any chance ever observes.</q>— said Sherlock Holmes once. </div><span id="counter">4</span> times you have visited this section yet you haven't contacted me. If you need any help, please feel free to <a class="underline" href="mailto:adkhakhs0412@gmail.com">email me.</a>or contact me :- 9825218278 </div></div></div>--><!-- <a class="modal__close" href="#"> <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="44px" height="44px" viewbox="7 -7 44 44" enable-background="new 7 -7 44 44" xml:space="preserve"> <g> <line x1="19" y1="5" x2="39" y2="25"></line> <line x1="39" y1="5" x2="19" y2="25"></line> </g> </svg> </a> --> </div></div></li></ul> <div class="scroll-icon"> <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewbox="0 0 64 64" xml:space="preserve"> <g class="scroll-icon__mouse"> <path fill="#fff" d="M32,16c-4.971,0-9,4.029-9,9v14c0,4.971,4.029,9,9,9c4.971,0,9-4.029,9-9V25C41,20.029,36.971,16,32,16z M39,39 c0,3.866-3.134,7-7,7s-7-3.134-7-7V25c0-3.866,3.134-7,7-7s7,3.134,7,7V39z M32,21c-0.552,0-1,0.448-1,1v5c0,0.553,0.448,1,1,1 c0.553,0,1-0.447,1-1v-5C33,21.448,32.553,21,32,21z"></path> </g> </svg> </div></section> <section id="about" data-midnight="nav--black"> <div class="about__background"></div><div class="about"> <div class="about__profile parallax"> <div class="parallax__layer" data-depth="0.30"> <figure class="profile__picture parallax__no-translate"><img src="adinew.jpg"></figure> </div><div class="parallax__layer" data-depth="0.50"> <h1 class="profile__name"><span class="profile__firstname">Aditya</span><br><span class="profile__surname">Khakhria</span></h1> </div><div class="parallax__layer" data-depth="0.65"> <div class="profile__role"> <h5>OWNER OF ADITYA TECHNOLOGIES</h5> </div></div></div><div class="about__biography"> <h3 class="biography__title">WHO THE HELL?</h3> <p class="biography__intro"> A 21 years old Information Systems Engineer Student based in Gujarat,Gandhidham.</p><div class="biography__body"> <span class="biography__line"></span> <div class="biography__text"> <p><span class="smallcaps">I</span>have always wanted to be and been web/ui designer; From the day i crafted my first website at the age of 15 and was always glad blissfully to create something that people can interact with.</p><p>I went on to study an Information Engineer career . Mainly I am a digital art director Born in Rajkot<p>Living in Gandhidham , Raised by the 80's</p>3 Years of experience and<b>&nbsp;NOW AVAILABLE FOR YOU</b></p><p> I'm incredibly passionate about what I do . I love to push myself to edge . I think we actually grow as professional when we are outside our comfort zone.</b></p><a href="resume.html"><button class="btn" tabindex="4">About me!</button></a> </div></div></div></div></section> <section id="designer" data-midnight="nav--black"> <div class="split split--designer"> <div class="container container--small container--center"> <header> <h1 class="split__title">Designer</h1> </header> <blockquote> <q>Good design is obvious. Great design is transparent.</q> <footer><cite>Joe Sparano</cite></footer> </blockquote> <p><span class="smallcaps">Multi-disciplinary designer</span> who is loves to learn and seek info to improve. Website designers are often concerned about their tangible skills, like hardcore Photoshop skills or a mastery of jQuery. However, becoming successful in the field of web design requires more than just having the right equipment or a wonderful grip on design. There are some very important things that any aspiring web designer should keep in mind when you're building your professional repertoire.</p><p>Design always shouldnt be about how it may look ; main key to tackle a problem is to balance between the visual details and how it can be useful to the end user.</p></div><span class="split__ampersand">&</span> </div></section> <section id="developer" data-midnight="nav--black"> <div class="split split--developer"> <div class="container container--small container--center"> <header> <h1 class="split__title">Developer</h1> </header> <blockquote> <q>Any fool can write code that a computer can understand. Good programmers write code that humans can understand.</q> <footer><cite>Martin Fowler</cite></footer> </blockquote> <p><span class="smallcaps">I always Plan Before I Design/Devlop</span>Second i keep my self Updated With New Technologies</p><p>A well-organized professional is a born champion. No matter which field of profession you belong to, being organized is important for every person to be successful. its the main motive of my life.</p></div><span class="split__ampersand">&</span> </div></section> </main> <footer id="footer"> <div class="footer__background" id="footerBackground"></div><div class="footer"> <h2 class="footer__title"> Say <span class="merriweather">hi! </span></h2> <h3 class="footer__subtitle">Don't be shy.</h3> <p class="footer__description"> You can use<a class="underline" tabindex="-1" href="#0" data-type="modal-trigger-alt">contact form </a>on the top, or<a class="underline" tabindex="-1" href="mailto:adkhakhs0412@gmail.com">mail me </a>directly if that's how you<span class="roll" id="roll"> roll. </span>feel free to<a class="underline" tabindex="-1" href="resume.html">check out my resume </a>to know more about my employment and education history or even<a class="underline" tabindex="-1" href="projects2/index.html" target="_BLANK">Check my work</a></p></div><div class="footer__copyright"> <div class="footer__row"> <div class="footer__column footer__column--left"> <p> Crafted with love by<span class="heart-icon"><?xml version="1.0" encoding="UTF-8"?> <div class="footer__column"><a class="underline underline--fix" tabindex="-1" href="mailto:adkhakhs0412@gmail.com">Adityakhakhria</a></div></div></div></footer> <script src="script.js"></script><!-- <script type="text/javascript">$(document).ready(function(){$('#SendBtn').click(function(){// alert("heres"); var name=$('#formFullName').val(); var website=$('#Website :selected').text(); var rate=$('#Rate :selected').text(); var email=$('#formEmail').val(); var action='mailto:adkhakhs0412@gmail.com?subject=Hi Adi here are my requirements&body='+website+'%0D%0A'+name+'%0D%0A'+rate+'%0D%0A'+email; $('#SendLink').attr('href',action); window.location=$('#SendLink').attr('href');});});</script> --></body></html>

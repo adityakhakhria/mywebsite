@@ -1,0 +1,5910 @@
+[class~=swiper-slide-active] [class~=project] [class~=info] {
+    -webkit-transform: translateZ(75px)
+}
+header [class~=modes] [class~=modeTrigger] {
+    display: inline-block
+}
+section.main .content .mainText .requestBtn:hover,
+button:hover {
+    font-size: .8125pc
+}
+header [class~=modes] [class~=modeTrigger] {
+    vertical-align: middle
+}
+header [class~=modes] [class~=modeTrigger] {
+    width: 18.75pt
+}
+html {
+    font-family: "Poppins", sans-serif
+}
+header [class~=modes] [class~=modeTrigger][class~=active] svg *,
+header [class~=logoWrapper] svg * {
+    fill: #121212
+}
+body[class~=nightMode] section[class~=portfolio] [class~=projects] [class~=project] [class~=tags] [class~=tag],
+textarea [class~=placeholder],
+body.nightMode section.portfolio .projects .project .hiddenInfo .awards .award .awardText .textWrapper,
+input [class~=placeholder] {
+    color: #121212
+}
+textarea [class~=placeholder],
+input [class~=placeholder] {
+    text-transform: uppercase
+}
+header [class~=modes] [class~=modeTrigger],
+header>div {
+    height: 18.75pt
+}
+[class~=clearfix] {
+    clear: both
+}
+header [class~=modes] [class~=modeTrigger] svg {
+    width: 100%
+}
+body[class~=nightMode] section [class~=navBackWrapper] [class~=vertSeparatop],
+body[class~=nightMode] section[class~=portfolio] [class~=projects] [class~=project] [class~=tags] [class~=tag],
+body[class~=nightMode] [class~=pagination] [class~=bullet]:before,
+body[class~=nightMode] section[class~=main] [class~=scrollWrapper] [class~=arrow],
+body[class~=nightMode] section[class~=main] [class~=content] [class~=mainText] [class~=requestBtn],
+body.nightMode section .navBackWrapper .closeIcon:after,
+body[class~=nightMode] [class~=pagination] [class~=bullet]:after,
+body.nightMode section .navBackWrapper .closeIcon:before,
+body.nightMode section.portfolio .projects .project .hiddenInfo .awards .award .awardText .textWrapper,
+body[class~=nightMode] [class~=pagination] [class~=swiper-pagination] [class~=swiper-pagination-bullet]:after {
+    background: #fff
+}
+header [class~=modes] [class~=modeTrigger][class~=active] {
+    pointer-events: none
+}
+section[class~=main] [class~=content] [class~=features] [class~=feature]:last-child,
+html {
+    margin-left: 0
+}
+#awwwards a {
+    position: absolute
+}
+header .logoWrapper svg,
+header [class~=modes] [class~=modeTrigger] svg {
+    height: 100%
+}
+#awwwards.honorable a {
+    background-image: url(../img/ribbons/awwwards_honorable_white_right.png)
+}
+header [class~=logoWrapper] {
+    text-align: left
+}
+section[class~=main] [class~=content] [class~=features] [class~=feature]:last-child,
+html {
+    margin-bottom: 0
+}
+header [class~=modes] [class~=modeTrigger] {
+    margin-left: 11.25pt
+}
+[class~=swiper-slide-active] [class~=project] [class~=info] {
+    -moz-transform: translateZ(75px)
+}
+header [class~=modes] [class~=modeTrigger],
+footer>div,
+header>div {
+    position: relative
+}
+header [class~=logoWrapper] {
+    float: left
+}
+body[class~=nightMode] header [class~=modes] [class~=modeName] {
+    color: #fff
+}
+body.nightMode header .modes .modeTrigger svg * {
+    fill: #4a4a4a
+}
+[class~=left] {
+    float: left!important
+}
+header [class~=logoWrapper] {
+    left: .3125in
+}
+section[class~=portfolio] [class~=projects] [class~=project] [class~=tags] [class~=tag]:last-child {
+    margin-right: 0
+}
+section[class~=main] [class~=content] [class~=features] [class~=feature]:last-child,
+html {
+    margin-right: 0
+}
+body[class~=nightMode] [class~=preloader] {
+    background: #121212
+}
+header .modes {
+    text-align: right
+}
+body[class~=showPortfolio] [class~=mainWrapper] {
+    -webkit-transform: translateX(-100%)
+}
+header>div {
+    top: 1.875pc
+}
+section.main .content .mainText .title {
+    font-size: 18px
+}
+section[class~=main] [class~=content] [class~=features] [class~=feature]:last-child,
+html {
+    margin-top: 0
+}
+section [class~=navBackWrapper] a:hover [class~=vertSeparatop] {
+    -webkit-transform: scaleY(.5);
+    -moz-transform: scaleY(.5)
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award],
+header [class~=modes] span {
+    display: inline-block
+}
+html,
+body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] {
+    padding-left: 0
+}
+body[class~=nightMode] [class~=preloader] [class~=cls-2] {
+    stroke: #fff
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=links] a {
+    font-size: .125in
+}
+header [class~=modes] span,
+section[class~=main] [class~=content] [class~=inner] {
+    vertical-align: middle
+}
+footer>div {
+    bottom: 22.5pt
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award] [class~=awardText] [class~=textWrapper]:after {
+    content: ""
+}
+section [class~=navBackWrapper] a:hover [class~=vertSeparatop] {
+    -ms-transform: scaleY(.5)
+}
+body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects],
+html {
+    padding-bottom: 0
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=links] a,
+footer>div,
+header [class~=modes] span,
+html {
+    font-weight: 400
+}
+body[class~=showPortfolio][class~=showProject] section[class~=portfolio]:after {
+    display: none
+}
+body[class~=nightMode] [class~=preloader] [class~=st1] {
+    fill: #121212
+}
+section[class~=main] [class~=content] [class~=features] [class~=feature] [class~=title] {
+    font-size: .25in
+}
+footer>div,
+header [class~=modes] span {
+    font-size: .104166667in
+}
+section[class~=main] [class~=content] [class~=inner] {
+    display: table-cell
+}
+section[class~=main] [class~=content] [class~=features] [class~=feature] [class~=title],
+footer>div,
+header [class~=modes] span,
+section.main .content .mainText .title {
+    line-height: 1.25pc
+}
+section.main .content .mainText .title,
+section[class~=main] [class~=content] [class~=features] [class~=feature] [class~=title] {
+    font-weight: 700
+}
+[class~=right] {
+    float: right!important
+}
+section.main .content .mainText .title,
+header [class~=modes] span,
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=links] a,
+footer>div {
+    letter-spacing: .75pt
+}
+[class~=center] {
+    text-align: center
+}
+[class~=swiper-slide-active] [class~=project] {
+    -webkit-transform: translateZ(0)
+}
+header [class~=modes] [class~=modeTrigger] svg * {
+    fill: #ddd
+}
+html,
+body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] {
+    padding-right: 0
+}
+header [class~=modes] span {
+    color: #bebebe
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=links] a {
+    line-height: 19px
+}
+header [class~=modes] span {
+    margin-right: .15625in
+}
+header .modes {
+    font-size: 0
+}
+header .modes {
+    float: right
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award] [class~=awardText] [class~=textWrapper]:after {
+    left: 0
+}
+body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] {
+    padding-top: .625in
+}
+section [class~=navBackWrapper] a:hover [class~=vertSeparatop] {
+    -o-transform: scaleY(.5)
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award] [class~=awardText] {
+    top: -45px
+}
+section [class~=navBackWrapper] a:hover [class~=vertSeparatop] {
+    transform: scaleY(.5)
+}
+html {
+    padding-top: 0
+}
+section [class~=navBackWrapper] a:hover [class~=closeIcon] {
+    -webkit-transform: rotate(90deg)
+}
+[class~=swiper-slide-active] [class~=project] [class~=info] {
+    -ms-transform: translateZ(75px)
+}
+body[class~=showPortfolio] [class~=mainWrapper] {
+    -moz-transform: translateX(-100%)
+}
+section [class~=navBackWrapper] a:hover [class~=closeIcon] {
+    -moz-transform: rotate(90deg)
+}
+html {
+    font-size: 12px
+}
+header .modes {
+    right: 30px
+}
+body[class~=nightMode] section[class~=main] [class~=content] [class~=mainText] [class~=requestBtn],
+html {
+    color: #121212
+}
+header [class~=modes] span,
+section.main .content .mainText .title,
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=links] a,
+footer>div {
+    text-transform: uppercase
+}
+body[class~=showPortfolio] [class~=mainWrapper] {
+    -ms-transform: translateX(-100%)
+}
+body[class~=showPortfolio] [class~=mainWrapper] {
+    -o-transform: translateX(-100%)
+}
+#awwwards,
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award] [class~=awardText] {
+    position: absolute
+}
+footer [class~=copyright] {
+    text-align: left
+}
+body[class~=showPortfolio] [class~=mainWrapper] {
+    transform: translateX(-100%)
+}
+#awwwards {
+    top: .885416667in
+}
+section [class~=navBackWrapper] a:hover [class~=closeIcon] {
+    -ms-transform: rotate(90deg)
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award] [class~=awardText] [class~=textWrapper]:after {
+    right: 0
+}
+footer [class~=copyright] {
+    float: left
+}
+body[class~=showForm] [class~=mainWrapper] {
+    filter: blur(50px) grayscale(100%);
+    -webkit-filter: blur(50px) grayscale(100%);
+    -moz-filter: blur(50px) grayscale(100%);
+    -o-filter: blur(50px) grayscale(100%)
+}
+section[class~=main] [class~=content] [class~=features] [class~=feature] [class~=title] {
+    letter-spacing: 2px
+}
+footer [class~=copyright] {
+    left: 22.5pt
+}
+footer [class~=snWrapper] {
+    text-align: right
+}
+section [class~=navBackWrapper] a:hover [class~=closeIcon] {
+    -o-transform: rotate(90deg)
+}
+section[class~=main] [class~=scrollWrapper] [class~=inner] {
+    display: table-cell
+}
+section [class~=navBackWrapper] a:hover [class~=closeIcon] {
+    transform: rotate(90deg)
+}
+section.main .content .mainText .title,
+section[class~=main] [class~=content] [class~=features] [class~=feature] [class~=title],
+section[class~=main] [class~=content] [class~=mainText] [class~=separator],
+section [class~=navBackWrapper] [class~=label] {
+    margin-left: 0
+}
+section[class~=main] [class~=content] [class~=mainText],
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=links] a {
+    display: inline-block
+}
+body[class~=nightMode][class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=requestBtnWrapper] a,
+html {
+    background: #fff
+}
+body [class~=arrow]:before,
+body a,
+body [class~=changeModeTransition] {
+    -webkit-transition-property: color, background, fill, border-color
+}
+footer [class~=snWrapper] a {
+    margin-left: 15px
+}
+section.main .scrollWrapper a .arrow:before,
+section[class~=main] [class~=scrollWrapper] a [class~=arrow] {
+    -webkit-transition: all .3s ease
+}
+section.main .content .mainText .title {
+    margin-bottom: 0
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award] {
+    margin-left: 15pt
+}
+body[class~=showForm] [class~=mainWrapper] {
+    -ms-filter: blur(50px) grayscale(100%)
+}
+section.main .content .mainText .title {
+    margin-right: 0
+}
+body [class~=changeModeTransition],
+body [class~=arrow]:before {
+    -moz-transition-property: color, background, fill, border-color
+}
+section[class~=main] [class~=scrollWrapper] a [class~=arrow],
+section.main .scrollWrapper a .arrow:before {
+    -moz-transition: all .3s ease
+}
+body [class~=changeModeTransition],
+body [class~=arrow]:before {
+    -ms-transition-property: color, background, fill, border-color
+}
+html {
+    height: 100%
+}
+html {
+    width: 100%
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award] [class~=awardText] [class~=textWrapper]:after {
+    width: 0
+}
+section[class~=main] [class~=scrollWrapper] a [class~=arrow] {
+    transition: all .3s ease
+}
+footer [class~=snWrapper] {
+    float: right
+}
+section[class~=main] [class~=scrollWrapper] [class~=inner] {
+    vertical-align: middle
+}
+html {
+    scroll-behavior: smooth
+}
+footer [class~=snWrapper] {
+    right: 30px
+}
+section [class~=navBackWrapper] [class~=label] {
+    font-size: .75pc
+}
+body [class~=changeModeTransition],
+body [class~=arrow]:before {
+    -o-transition-property: color, background, fill, border-color
+}
+[class~=fixed] {
+    position: fixed
+}
+#awwwards {
+    width: 5.625pc
+}
+html {
+    overflow: hidden
+}
+section.main .content .mainText .title {
+    margin-top: 0
+}
+body [class~=arrow]:before,
+body [class~=changeModeTransition] {
+    transition-property: color, background, fill, border-color
+}
+section [class~=navBackWrapper] [class~=label] {
+    font-weight: 700
+}
+section[class~=main] [class~=scrollWrapper] a [class~=arrow] {
+    -webkit-transform-origin: right
+}
+footer [class~=snWrapper] a:hover {
+    filter: blur(3px)
+}
+body [class~=changeModeTransition],
+body [class~=arrow]:before {
+    -webkit-transition-duration: .3s
+}
+section[class~=main] [class~=scrollWrapper] a [class~=arrow] {
+    -moz-transform-origin: right
+}
+body [class~=arrow]:before,
+body [class~=changeModeTransition] {
+    -moz-transition-duration: .3s
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award] [class~=awardText] [class~=textWrapper]:after {
+    height: 0
+}
+body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] {
+    margin-top: 0
+}
+section[class~=main] [class~=scrollWrapper] a [class~=arrow] {
+    -ms-transform-origin: right
+}
+section[class~=main] [class~=content] [class~=mainText] [class~=separator] {
+    margin-bottom: .3125in
+}
+html {
+    -webkit-text-size-adjust: 100%
+}
+section[class~=main] [class~=scrollWrapper] a [class~=arrow] {
+    -o-transform-origin: right
+}
+section [class~=navBackWrapper] [class~=label] {
+    line-height: 14px
+}
+body [class~=changeModeTransition],
+body [class~=arrow]:before {
+    -ms-transition-duration: .3s
+}
+section [class~=navBackWrapper] [class~=label],
+body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=navBackWrapper] [class~=text] {
+    letter-spacing: 3.75pt
+}
+html {
+    -ms-text-size-adjust: 100%
+}
+footer [class~=snWrapper] a:hover {
+    -webkit-filter: blur(3px)
+}
+body,
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award] {
+    margin-bottom: 0
+}
+html {
+    -moz-text-size-adjust: 100%
+}
+section[class~=main] [class~=content] [class~=features] [class~=feature] [class~=title] {
+    margin-bottom: .5pc
+}
+section[class~=main] [class~=scrollWrapper] a [class~=arrow] {
+    transform-origin: right
+}
+body [class~=arrow]:before,
+body [class~=changeModeTransition] {
+    -o-transition-duration: .3s
+}
+footer [class~=snWrapper] a:hover {
+    -moz-filter: blur(3px)
+}
+body [class~=arrow]:before,
+body [class~=changeModeTransition] {
+    transition-duration: .3s
+}
+body {
+    font-family: "Poppins", sans-serif
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award] [class~=awardText] [class~=textWrapper] {
+    white-space: nowrap
+}
+section[class~=main] [class~=scrollWrapper] [class~=arrow]:before {
+    content: ""
+}
+footer [class~=snWrapper] a:hover {
+    -o-filter: blur(3px)
+}
+section[class~=main] [class~=content] [class~=features] [class~=feature] [class~=title],
+body,
+section [class~=navBackWrapper] [class~=label],
+section[class~=main] [class~=content] [class~=mainText] [class~=separator] {
+    margin-right: 0
+}
+[class~=swiper-slide-active] [class~=project] {
+    -moz-transform: translateZ(0)
+}
+body {
+    margin-left: 0
+}
+body [class~=arrow]:before,
+body [class~=changeModeTransition] {
+    -webkit-transition-timing-function: linear
+}
+section [class~=navBackWrapper] [class~=label] {
+    margin-bottom: 5px
+}
+[class~=transitionSlow] {
+    -webkit-transition: all 1s
+}
+body [class~=changeModeTransition],
+body [class~=arrow]:before {
+    -moz-transition-timing-function: linear
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=links] a {
+    margin-left: 7.5pt
+}
+section.main .scrollWrapper a .arrow:before {
+    transition: all .3s ease
+}
+section[class~=main] [class~=content] [class~=features] [class~=feature] [class~=title],
+body,
+section [class~=navBackWrapper] [class~=label] {
+    margin-top: 0
+}
+body [class~=arrow]:before,
+body [class~=changeModeTransition] {
+    -ms-transition-timing-function: linear
+}
+body [class~=changeModeTransition],
+body [class~=arrow]:before {
+    -o-transition-timing-function: linear
+}
+body {
+    padding-left: 0
+}
+body [class~=changeModeTransition],
+body [class~=arrow]:before {
+    transition-timing-function: linear
+}
+[class~=swiper-slide-active] [class~=project] {
+    -ms-transform: translateZ(0)
+}
+body {
+    padding-bottom: 0
+}
+section[class~=main] [class~=scrollWrapper] [class~=arrow]:before,
+body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=requestBtnWrapper] [class~=label] {
+    display: block
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award] [class~=awardText] [class~=textWrapper]:after {
+    border-left-style: solid
+}
+body .modeName,
+body [class~=arrow]:after {
+    -webkit-transition-property: color, background, fill, border-color
+}
+body [class~=arrow]:after,
+body a {
+    -moz-transition-property: color, background, fill, border-color
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award] [class~=awardText] {
+    opacity: 0
+}
+body a,
+body [class~=arrow]:after {
+    -ms-transition-property: color, background, fill, border-color
+}
+body {
+    padding-right: 0
+}
+body [class~=arrow]:after,
+body a {
+    -o-transition-property: color, background, fill, border-color
+}
+section[class~=main] [class~=scrollWrapper] [class~=arrow]:before {
+    height: .010416667in
+}
+section[class~=main] [class~=content] [class~=mainText] [class~=separator] {
+    margin-top: .3125in
+}
+footer [class~=snWrapper] a:hover {
+    -ms-filter: blur(3px)
+}
+[class~=transitionSlow] {
+    -moz-transition: all 1s
+}
+body [class~=arrow]:after,
+body a {
+    transition-property: color, background, fill, border-color
+}
+section[class~=main] [class~=scrollWrapper] [class~=arrow]:before {
+    width: .4375pc
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] h1,
+section [class~=navBackWrapper] a div {
+    margin-left: auto
+}
+section[class~=main] [class~=content] [class~=mainText] [class~=desc],
+body {
+    font-size: 12px
+}
+section[class~=main] [class~=content] [class~=mainText] [class~=desc] {
+    font-weight: 300;
+    line-height: .208333333in
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=links] a {
+    margin-bottom: 7.5pt
+}
+section[class~=main] [class~=content] [class~=mainText] [class~=requestBtn] {
+    height: 3.125pc
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award] [class~=awardText] [class~=textWrapper]:after {
+    border-bottom-style: solid
+}
+section[class~=main] [class~=scrollWrapper] [class~=arrow]:before {
+    position: absolute
+}
+section[class~=main] [class~=scrollWrapper] [class~=arrow]:before {
+    right: 0
+}
+body a,
+body [class~=arrow]:after {
+    -webkit-transition-duration: .3s
+}
+body [class~=arrow]:after,
+body a {
+    -moz-transition-duration: .3s
+}
+body [class~=arrow]:after,
+body a {
+    -ms-transition-duration: .3s
+}
+section[class~=main] [class~=content] [class~=features] [class~=feature] [class~=desc],
+section [class~=navBackWrapper] [class~=text] {
+    font-size: 7.5pt
+}
+section [class~=navBackWrapper] [class~=text] {
+    font-weight: 500
+}
+section[class~=main] [class~=scrollWrapper] [class~=arrow]:before {
+    top: 0
+}
+section[class~=main] [class~=content] [class~=mainText] {
+    vertical-align: middle
+}
+[class~=swiper-slide-active] [class~=project] {
+    -o-transform: translateZ(0)
+}
+body {
+    padding-top: 0
+}
+body [class~=arrow]:after,
+body a {
+    -o-transition-duration: .3s
+}
+[class~=nightMode] #awwwards[class~=honorable] a {
+    background-image: url(../img/ribbons/awwwards_honorable_black_right.png)
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=links] a {
+    margin-right: 7.5pt
+}
+[class~=swiper-slide-active] [class~=project] [class~=info] {
+    -o-transform: translateZ(75px)
+}
+section [class~=navBackWrapper] [class~=text] {
+    line-height: 7.5pt
+}
+[class~=swiper-slide-active] [class~=project] {
+    transform: translateZ(0)
+}
+footer [class~=snWrapper] a:hover {
+    -webkit-transition: all .3s ease
+}
+section [class~=navBackWrapper] [class~=text] {
+    letter-spacing: .3125pc
+}
+section[class~=main] [class~=content] [class~=mainText] [class~=requestBtn],
+section [class~=navBackWrapper] [class~=vertSeparatop],
+section[class~=main] [class~=scrollWrapper] [class~=arrow]:before {
+    background: #121212
+}
+body [class~=arrow]:after,
+body a {
+    transition-duration: .3s
+}
+section [class~=navBackWrapper] [class~=vertSeparatop] {
+    width: .75pt
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=links] a {
+    margin-top: 7.5pt
+}
+body .modeName {
+    -moz-transition-property: color, background, fill, border-color;
+    -ms-transition-property: color, background, fill, border-color
+}
+section [class~=navBackWrapper] [class~=vertSeparatop] {
+    height: .3125in
+}
+body {
+    color: #121212
+}
+body,
+section[class~=main] [class~=content] [class~=mainText],
+section[class~=main] [class~=content] [class~=mainText] [class~=requestBtn] {
+    width: 100%
+}
+section[class~=main] [class~=content] [class~=mainText] [class~=requestBtn],
+body {
+    font-weight: 400
+}
+body a,
+body [class~=arrow]:after {
+    -webkit-transition-timing-function: linear
+}
+section [class~=navBackWrapper] [class~=vertSeparatop] {
+    margin-left: auto
+}
+body {
+    background: #fff
+}
+section[class~=main] [class~=content] [class~=mainText] {
+    max-width: 165pt
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] h1,
+section [class~=navBackWrapper] [class~=vertSeparatop] {
+    margin-bottom: 1.875pc
+}
+[class~=swiper-slide-active] [class~=project] {
+    -webkit-transform-style: preserve-3d
+}
+section[class~=main] [class~=scrollWrapper] [class~=arrow]:after {
+    content: ""
+}
+body {
+    height: 100%
+}
+section[class~=main] [class~=content] [class~=mainText] [class~=requestBtn] {
+    margin-left: 0
+}
+body .modeName {
+    -o-transition-property: color, background, fill, border-color
+}
+footer [class~=snWrapper] a:hover {
+    -moz-transition: all .3s ease
+}
+section[class~=main] [class~=content] [class~=mainText] [class~=requestBtn] {
+    margin-bottom: 0
+}
+body {
+    scroll-behavior: smooth
+}
+body {
+    overflow: hidden
+}
+section [class~=navBackWrapper] [class~=vertSeparatop],
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] h1 {
+    margin-right: auto
+}
+section[class~=main] [class~=content] [class~=features] [class~=feature] [class~=desc] {
+    font-weight: 500
+}
+body {
+    -webkit-text-size-adjust: 100%
+}
+section[class~=main] [class~=content] [class~=mainText] [class~=requestBtn] {
+    margin-right: 0
+}
+body {
+    -ms-text-size-adjust: 100%
+}
+body[class~=nightMode] header [class~=modes] [class~=modeTrigger][class~=active] svg * {
+    fill: #fff
+}
+section[class~=main] [class~=content] [class~=mainText] [class~=requestBtn],
+section [class~=navBackWrapper] [class~=vertSeparatop] {
+    margin-top: .3125in
+}
+body [class~=arrow]:after,
+body a {
+    -moz-transition-timing-function: linear
+}
+section[class~=main] [class~=content] [class~=mainText] [class~=requestBtn] {
+    font-size: 12px
+}
+body {
+    -moz-text-size-adjust: 100%
+}
+section[class~=main] [class~=content] [class~=features] [class~=feature] [class~=desc] {
+    line-height: 7.5pt
+}
+section[class~=main] [class~=content] [class~=mainText] [class~=requestBtn] {
+    text-align: center
+}
+body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=navBackWrapper],
+section [class~=navBackWrapper] [class~=closeIcon] {
+    position: relative
+}
+section[class~=main] [class~=content] [class~=features] [class~=feature] [class~=desc] {
+    letter-spacing: .010416667in
+}
+#awwwards {
+    height: 101.25pt
+}
+body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=navBackWrapper] {
+    top: 0
+}
+section[class~=main] [class~=scrollWrapper] [class~=arrow]:after {
+    display: block
+}
+html::-webkit-scrollbar {
+    width: 0
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award] [class~=awardText] {
+    visibility: hidden
+}
+section [class~=navBackWrapper] [class~=closeIcon] {
+    width: .208333333in;
+    height: 1.125pc
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] h1 {
+    margin-top: 2.5pc
+}
+body [class~=arrow]:after,
+body a {
+    -ms-transition-timing-function: linear
+}
+body[class~=nightMode][class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=requestBtnWrapper] a {
+    color: #121212
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] h1 {
+    font-size: 1.125pc
+}
+section[class~=main] [class~=content],
+section[class~=main] [class~=scrollWrapper] {
+    display: table
+}
+#awwwards {
+    text-indent: -666em
+}
+section[class~=main] [class~=scrollWrapper] [class~=arrow]:after {
+    height: .010416667in
+}
+section[class~=main] [class~=content] [class~=mainText] [class~=requestBtn] {
+    letter-spacing: 2px
+}
+section[class~=main] [class~=content] [class~=mainText] {
+    margin-right: 1.145833333in
+}
+body .modeName {
+    transition-property: color, background, fill, border-color
+}
+section[class~=main] [class~=scrollWrapper] [class~=arrow]:after {
+    width: .4375pc
+}
+html::-webkit-scrollbar {
+    height: 0
+}
+section[class~=main] [class~=scrollWrapper] [class~=arrow]:after {
+    position: absolute
+}
+body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=requestBtnWrapper] [class~=label] {
+    font-size: .145833333in
+}
+section[class~=main] [class~=scrollWrapper],
+section[class~=main] [class~=content] {
+    height: 100%
+}
+section[class~=main] [class~=content] {
+    width: 50%
+}
+body::-webkit-scrollbar {
+    width: 0
+}
+body a,
+body [class~=arrow]:after {
+    -o-transition-timing-function: linear
+}
+section[class~=main] [class~=content] [class~=features],
+section[class~=main] [class~=content] [class~=mainText] {
+    text-align: left
+}
+body::-webkit-scrollbar {
+    height: 0
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award] {
+    margin-right: 15pt
+}
+div,
+[class~=borderBox],
+nav,
+header {
+    -webkit-box-sizing: border-box!important
+}
+body a,
+body [class~=arrow]:after {
+    transition-timing-function: linear
+}
+div,
+[class~=borderBox],
+nav,
+header {
+    -moz-box-sizing: border-box!important
+}
+body .modeName {
+    -webkit-transition-duration: .3s
+}
+section[class~=main] [class~=scrollWrapper] [class~=arrow]:after {
+    right: 0
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] h1 {
+    font-weight: 500
+}
+section[class~=main] [class~=content] [class~=features],
+section[class~=main] [class~=scrollWrapper] [class~=label] {
+    display: inline-block
+}
+[class~=transitionSlow] {
+    transition: all 1s
+}
+body svg *,
+body [class~=project]:before {
+    -webkit-transition-property: color, background, fill, border-color
+}
+body[class~=nightMode] input [class~=placeholder],
+section[class~=main] [class~=content] [class~=mainText] [class~=requestBtn] {
+    color: #fff
+}
+footer [class~=snWrapper] a:hover {
+    transition: all .3s ease
+}
+body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=requestBtnWrapper] [class~=label],
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] h1 {
+    text-align: center
+}
+header,
+div,
+[class~=borderBox],
+nav {
+    box-sizing: border-box!important
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award] {
+    margin-top: 0
+}
+section[class~=main] [class~=content] {
+    text-align: right
+}
+body .modeName {
+    -moz-transition-duration: .3s
+}
+body .modeName {
+    -ms-transition-duration: .3s
+}
+body .modeName {
+    -o-transition-duration: .3s
+}
+body svg *,
+body [class~=project]:before {
+    -moz-transition-property: color, background, fill, border-color
+}
+body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=requestBtnWrapper] [class~=label] {
+    font-weight: 700
+}
+body svg * {
+    -ms-transition-property: color, background, fill, border-color
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award] [class~=awardText] [class~=textWrapper] {
+    left: -50%
+}
+[class~=swiper-slide-active] [class~=project] {
+    -moz-transform-style: preserve-3d
+}
+section [class~=navBackWrapper] a div {
+    margin-bottom: auto
+}
+body[class~=nightMode] section[class~=main] [class~=scrollWrapper] [class~=arrow]:before,
+body.nightMode section .separator {
+    background: #fff
+}
+section[class~=main] [class~=content] [class~=features],
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award] {
+    vertical-align: middle
+}
+section[class~=main] [class~=content] [class~=features] [class~=feature] [class~=desc] {
+    margin-left: 0
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=links] a:hover {
+    filter: blur(3px)
+}
+body svg * {
+    -o-transition-property: color, background, fill, border-color
+}
+body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=navBackWrapper],
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] {
+    margin-left: auto
+}
+body .modeName {
+    transition-duration: .3s
+}
+body svg * {
+    transition-property: color, background, fill, border-color
+}
+body .modeName {
+    -webkit-transition-timing-function: linear
+}
+section[class~=main] [class~=scrollWrapper] {
+    width: 50%
+}
+body .modeName {
+    -moz-transition-timing-function: linear
+}
+body .modeName {
+    -ms-transition-timing-function: linear
+}
+section[class~=main] [class~=content] [class~=features] [class~=feature] [class~=desc],
+body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=navBackWrapper] {
+    margin-bottom: 0
+}
+body .modeName {
+    -o-transition-timing-function: linear
+}
+body .modeName {
+    transition-timing-function: linear
+}
+body [class~=separator] {
+    -webkit-transition-property: color, background, fill, border-color
+}
+section[class~=main] [class~=content] [class~=features] [class~=feature] [class~=desc] {
+    margin-right: 0
+}
+li,
+input,
+footer,
+a,
+section,
+textarea,
+ul {
+    -webkit-box-sizing: border-box!important
+}
+[class~=contentBox] {
+    -webkit-box-sizing: content-box!important
+}
+input,
+ul,
+textarea,
+a,
+section,
+li,
+footer {
+    -moz-box-sizing: border-box!important
+}
+section[class~=main] [class~=scrollWrapper] {
+    text-align: right
+}
+textarea,
+section,
+input,
+footer {
+    box-sizing: border-box!important
+}
+body[class~=nightMode] textarea [class~=placeholder] {
+    color: #fff
+}
+body svg * {
+    -webkit-transition-duration: .3s
+}
+body [class~=separator] {
+    -moz-transition-property: color, background, fill, border-color
+}
+section[class~=main] [class~=content] [class~=features] [class~=feature] [class~=desc] {
+    margin-top: 0
+}
+[class~=swiper-slide-active] [class~=project] {
+    -ms-transform-style: preserve-3d
+}
+body.nightMode section.portfolio .projects .project .hiddenInfo .awards .award .awardText .textWrapper:after {
+    border-left-color: transparent
+}
+section[class~=main] [class~=content] [class~=mainText] [class~=requestBtn] {
+    text-transform: uppercase
+}
+body [class~=separator],
+body [class~=project]:before {
+    -ms-transition-property: color, background, fill, border-color
+}
+body svg * {
+    -moz-transition-duration: .3s
+}
+[class~=swiper-slide-active] [class~=project] {
+    transform-style: preserve-3d
+}
+body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=navBackWrapper] {
+    margin-right: auto
+}
+#awwwards a,
+section[class~=main] [class~=scrollWrapper] [class~=arrow]:after {
+    top: 0
+}
+section[class~=portfolio][class~=singleMode] [class~=swiper-slide]:not([class~=swiper-slide-active]) [class~=project] {
+    opacity: 0
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award] [class~=awardText] [class~=textWrapper],
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award] {
+    position: relative
+}
+[class~=swiper-slide-active] [class~=project] {
+    -webkit-backface-visibility: hidden
+}
+section[class~=main] [class~=scrollWrapper] [class~=label] {
+    vertical-align: middle
+}
+section[class~=main] [class~=content] [class~=mainText] [class~=requestBtn] {
+    padding-top: .03125in
+}
+[class~=contentBox] {
+    -moz-box-sizing: content-box!important
+}
+body[class~=showForm] section[class~=form] {
+    opacity: 1
+}
+[class~=swiper-slide-active] [class~=project] {
+    -moz-backface-visibility: hidden
+}
+body [class~=project]:before,
+body [class~=separator] {
+    -o-transition-property: color, background, fill, border-color
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award] [class~=awardText] [class~=textWrapper]:after {
+    border-right-style: solid
+}
+body [class~=project]:before,
+body [class~=separator] {
+    transition-property: color, background, fill, border-color
+}
+section[class~=main] [class~=content] [class~=mainText] [class~=requestBtn] {
+    line-height: 2.9375pc
+}
+body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=requestBtnWrapper] a:hover {
+    filter: blur(0px)
+}
+body svg *,
+body [class~=separator] {
+    -ms-transition-duration: .3s
+}
+[class~=contentBox] {
+    box-sizing: content-box!important
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] h1 {
+    line-height: .208333333in
+}
+[class~=swiper-slide-active] [class~=project] {
+    -ms-backface-visibility: hidden
+}
+section[class~=main] [class~=content] [class~=mainText] [class~=requestBtn] {
+    display: block
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award] [class~=awardText] [class~=textWrapper] {
+    padding-left: 7.5pt
+}
+section[class~=portfolio][class~=singleMode] [class~=swiper-slide]:not([class~=swiper-slide-active]) [class~=project] {
+    visibility: hidden
+}
+section[class~=portfolio] [class~=projects] [class~=project] [class~=tags] [class~=tag] {
+    display: inline-block
+}
+body [class~=separator],
+body svg * {
+    -o-transition-duration: .3s
+}
+a,
+li,
+ul {
+    box-sizing: border-box!important
+}
+section[class~=main] [class~=content] [class~=mainText] [class~=requestBtn] {
+    -webkit-transition: all .3s ease
+}
+body [class~=separator],
+body [class~=project]:before {
+    -webkit-transition-duration: .3s
+}
+body[class~=nightMode] section[class~=main] [class~=scrollWrapper] [class~=arrow]:after {
+    background: #fff
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] h1 {
+    letter-spacing: 1.5pt
+}
+body [class~=project]:before,
+body [class~=separator] {
+    -moz-transition-duration: .3s
+}
+body [class~=separator],
+body svg * {
+    transition-duration: .3s
+}
+section.main .content {
+    float: left
+}
+body [class~=separator],
+body svg * {
+    -webkit-transition-timing-function: linear
+}
+body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=requestBtnWrapper] [class~=label] {
+    line-height: 1.4375pc
+}
+body svg * {
+    -moz-transition-timing-function: linear
+}
+body [class~=separator],
+body svg * {
+    -ms-transition-timing-function: linear
+}
+section[class~=main] [class~=scrollWrapper] [class~=label],
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] h1 {
+    text-transform: uppercase
+}
+section[class~=main] [class~=scrollWrapper] {
+    float: right
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award] [class~=awardText] [class~=textWrapper]:after {
+    border-top-style: solid
+}
+section[class~=portfolio] [class~=projects] [class~=project] [class~=tags] [class~=tag],
+section[class~=main] [class~=scrollWrapper] [class~=arrow]:after {
+    background: #121212
+}
+[class~=grain] {
+    position: fixed
+}
+section[class~=main] [class~=content] [class~=mainText] [class~=requestBtn] {
+    -moz-transition: all .3s ease
+}
+body svg *,
+body [class~=separator] {
+    -o-transition-timing-function: linear
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] h2 {
+    margin-left: auto
+}
+section.main .scrollWrapper .arrow:before {
+    -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg)
+}
+body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=navBackWrapper] {
+    margin-top: 0
+}
+body[class~=nightMode] section[class~=portfolio] [class~=projects] [class~=project]:before {
+    border-left-color: #fff;
+    border-bottom-color: #fff
+}
+body[class~=showForm] section[class~=form] {
+    visibility: visible
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] {
+    margin-bottom: 5pc
+}
+body svg *,
+body [class~=separator] {
+    transition-timing-function: linear
+}
+body input,
+body [class~=arrow] {
+    -webkit-transition-property: color, background, fill, border-color
+}
+section.main .scrollWrapper .arrow:before {
+    -ms-transform: rotate(45deg)
+}
+input {
+    -webkit-appearance: none
+}
+section.main .scrollWrapper .arrow:before {
+    -o-transform: rotate(45deg)
+}
+section[class~=portfolio] [class~=projects] [class~=project] [class~=tags] [class~=tag] {
+    font-size: .104166667in
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] {
+    margin-right: auto
+}
+body input {
+    -moz-transition-property: color, background, fill, border-color
+}
+input {
+    -moz-appearance: none
+}
+section.main .scrollWrapper .arrow:before {
+    transform: rotate(45deg)
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] h2 {
+    margin-bottom: 1.875pc
+}
+body[class~=nightMode] section[class~=portfolio] [class~=projects] [class~=project]:before {
+    border-right-color: #fff
+}
+input {
+    appearance: none
+}
+input {
+    background: 0
+}
+section.main .scrollWrapper .arrow:before {
+    -webkit-transform-origin: right bottom
+}
+section[class~=main] [class~=scrollWrapper] {
+    padding-left: .3125in
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award] [class~=awardText] {
+    -webkit-transition: all .6s ease
+}
+input {
+    font-family: "Poppins", sans-serif
+}
+#awwwards {
+    overflow: hidden
+}
+section[class~=main] [class~=scrollWrapper] [class~=label] {
+    text-align: left
+}
+body input,
+body [class~=project]:before {
+    -ms-transition-duration: .3s
+}
+section[class~=main] [class~=scrollWrapper] {
+    padding-bottom: .3125in
+}
+body [class~=project]:before {
+    -o-transition-duration: .3s
+}
+body [class~=separator],
+body [class~=project]:before {
+    -moz-transition-timing-function: linear
+}
+body input {
+    -ms-transition-property: color, background, fill, border-color
+}
+input {
+    border-radius: 0
+}
+section[class~=main] [class~=content] [class~=mainText] [class~=requestBtn] {
+    transition: all .3s ease
+}
+input {
+    box-shadow: none
+}
+input {
+    outline: 0
+}
+section[class~=main] [class~=scrollWrapper] {
+    padding-right: .3125in
+}
+input {
+    border-left-width: 0
+}
+section[class~=main] [class~=scrollWrapper] {
+    padding-top: .3125in
+}
+body input {
+    -o-transition-property: color, background, fill, border-color
+}
+section.main .scrollWrapper .arrow:before {
+    -moz-transform-origin: right bottom
+}
+input {
+    border-bottom-width: 0
+}
+section [class~=navBackWrapper] a [class~=vertSeparatop] {
+    -webkit-transition: all .3s ease
+}
+body [class~=project]:before,
+body input {
+    transition-duration: .3s
+}
+body [class~=project]:before {
+    -webkit-transition-timing-function: linear
+}
+section.main .scrollWrapper .arrow:before {
+    -ms-transform-origin: right bottom
+}
+section.main .scrollWrapper .arrow:before {
+    -o-transform-origin: right bottom
+}
+input {
+    border-right-width: 0
+}
+input {
+    border-top-width: 0
+}
+body .project:after,
+body input {
+    transition-property: color, background, fill, border-color
+}
+input {
+    border-left-style: none
+}
+input {
+    border-bottom-style: none
+}
+input {
+    border-right-style: none
+}
+input {
+    border-top-style: none
+}
+[class~=swiper-slide-active] [class~=project] {
+    backface-visibility: hidden
+}
+body .project:after,
+body input {
+    -webkit-transition-duration: .3s
+}
+input {
+    border-left-color: currentColor
+}
+section[class~=main] [class~=content] [class~=features] [class~=feature] {
+    text-transform: uppercase;
+    margin-left: 0
+}
+section[class~=portfolio] [class~=swiper-wrapper] {
+    height: auto
+}
+body .project:after,
+body [class~=arrow] {
+    -moz-transition-property: color, background, fill, border-color
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award] [class~=awardText] [class~=textWrapper]:after {
+    border-left-width: 4px
+}
+[class~=swiper-slide-active] [class~=project] [class~=info] {
+    transform: translateZ(75px)
+}
+section[class~=main] [class~=content] [class~=features] [class~=feature] {
+    margin-bottom: 24pt
+}
+section[class~=portfolio] [class~=projects] [class~=project] [class~=tags] [class~=tag] {
+    font-weight: 400
+}
+section[class~=portfolio] [class~=requestBtnWrapper],
+body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=navBackWrapper] {
+    z-index: 4
+}
+body [class~=project]:before,
+body input {
+    -ms-transition-timing-function: linear
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=links] a:hover {
+    -webkit-filter: blur(3px)
+}
+body input,
+body .project:after {
+    -moz-transition-duration: .3s
+}
+input {
+    border-bottom-color: currentColor
+}
+section[class~=main] [class~=scrollWrapper] [class~=arrow] {
+    height: .010416667in
+}
+section [class~=navBackWrapper] a [class~=vertSeparatop] {
+    -moz-transition: all .3s ease
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] {
+    margin-top: 5pc
+}
+body input,
+body [class~=project]:before {
+    -o-transition-timing-function: linear
+}
+body [class~=project]:before {
+    transition-timing-function: linear
+}
+body .project:after,
+body input {
+    -o-transition-duration: .3s
+}
+body .project:after {
+    -webkit-transition-property: color, background, fill, border-color
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] h2 {
+    margin-right: auto
+}
+section[class~=main] [class~=content] [class~=features] [class~=feature] {
+    margin-right: 0
+}
+input {
+    border-right-color: currentColor
+}
+section[class~=main] [class~=content] [class~=features] [class~=feature] {
+    margin-top: 0
+}
+section[class~=portfolio] [class~=projects] [class~=project] [class~=tags] [class~=tag] {
+    line-height: 20px
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards],
+section[class~=portfolio] [class~=requestBtnWrapper] {
+    text-align: center
+}
+body[class~=nightMode] section[class~=portfolio] [class~=projects] [class~=project]:before {
+    border-top-color: #fff
+}
+body[class~=nightMode] section[class~=portfolio] [class~=projects] [class~=project]:after {
+    background: #1a1a1a
+}
+body [class~=arrow],
+body .project:after {
+    -ms-transition-property: color, background, fill, border-color
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=links] a:hover {
+    -moz-filter: blur(3px)
+}
+.preloader .st1 {
+    fill: #fff
+}
+body [class~=arrow],
+body .project:after {
+    -o-transition-property: color, background, fill, border-color
+}
+section[class~=portfolio] [class~=requestBtnWrapper] {
+    position: absolute
+}
+body .project:after,
+body input {
+    -webkit-transition-timing-function: linear
+}
+body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=requestBtnWrapper] a,
+section[class~=main] [class~=scrollWrapper] [class~=arrow] {
+    background: #121212
+}
+input {
+    border-top-color: currentColor
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award] [class~=awardText] [class~=textWrapper]:after {
+    border-bottom-width: 0
+}
+body [class~=arrow] {
+    transition-property: color, background, fill, border-color
+}
+body input,
+body .project:after {
+    -moz-transition-timing-function: linear
+}
+input {
+    border-image: none
+}
+textarea {
+    -webkit-appearance: none
+}
+section[class~=portfolio] [class~=requestBtnWrapper],
+[class~=grain],
+#awwwards a {
+    left: 0
+}
+section [class~=navBackWrapper] a [class~=vertSeparatop] {
+    transition: all .3s ease
+}
+section[class~=main] [class~=scrollWrapper] [class~=label] [class~=sectionTitle] {
+    font-size: 9pt
+}
+[class~=grain] {
+    top: 0
+}
+textarea {
+    -moz-appearance: none
+}
+section.portfolio .projects .project.active .hiddenInfo .content img+h1 {
+    margin-top: .625pc
+}
+section.main .scrollWrapper .arrow:before {
+    transform-origin: right bottom
+}
+body [class~=arrow] {
+    -webkit-transition-duration: .3s
+}
+[class~=grain] {
+    width: 100%
+}
+body [class~=arrow],
+body .project:after {
+    -ms-transition-duration: .3s
+}
+section.main .scrollWrapper a .arrow:before {
+    -webkit-transform-origin: right
+}
+section[class~=portfolio] [class~=projects] [class~=project] [class~=tags] [class~=tag] {
+    letter-spacing: .75pt
+}
+section.main .scrollWrapper a .arrow:before {
+    -moz-transform-origin: right
+}
+body .project:after,
+body [class~=arrow] {
+    transition-duration: .3s
+}
+section.main .scrollWrapper .arrow:after {
+    -webkit-transform: rotate(-45deg)
+}
+body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=requestBtnWrapper] a,
+section[class~=portfolio] [class~=projects] [class~=project] [class~=tags] [class~=tag] {
+    color: #fff
+}
+section[class~=portfolio] [class~=requestBtnWrapper] {
+    right: 0
+}
+body [class~=arrow] {
+    -moz-transition-duration: .3s
+}
+section[class~=portfolio] [class~=requestBtnWrapper],
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=links] {
+    margin-left: auto
+}
+section[class~=portfolio] [class~=projects] [class~=project] [class~=tags] [class~=tag] {
+    padding-left: 4px
+}
+section[class~=portfolio] [class~=projects] [class~=project] [class~=tags] [class~=tag] {
+    padding-bottom: 0
+}
+.mainWrapper,
+[class~=grain] {
+    height: 100%
+}
+textarea {
+    appearance: none
+}
+textarea {
+    background: 0
+}
+textarea {
+    font-family: "Poppins", sans-serif
+}
+[class~=grain] {
+    z-index: 0
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] {
+    font-size: 0
+}
+body input,
+body [class~=arrow],
+body .project:after {
+    transition-timing-function: linear
+}
+section[class~=main] [class~=scrollWrapper] [class~=label] [class~=sectionTitle] {
+    font-weight: 700
+}
+body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=requestBtnWrapper] {
+    position: static
+}
+section[class~=portfolio] [class~=projects] [class~=project] [class~=tags] [class~=tag] {
+    padding-right: 4px
+}
+body [class~=arrow] {
+    -o-transition-duration: .3s
+}
+section[class~=main] [class~=scrollWrapper] [class~=arrow] {
+    width: 2.291666667in
+}
+body [class~=arrow],
+body .project:after {
+    -ms-transition-timing-function: linear
+}
+body .closeIcon:before,
+body textarea,
+body [class~=vertSeparatop] {
+    -webkit-transition-property: color, background, fill, border-color
+}
+body [class~=arrow],
+body .project:after {
+    -o-transition-timing-function: linear
+}
+body textarea,
+body [class~=vertSeparatop],
+body .closeIcon:before {
+    -moz-transition-property: color, background, fill, border-color
+}
+textarea {
+    border-radius: 0
+}
+section[class~=portfolio] [class~=requestBtnWrapper] {
+    margin-bottom: auto
+}
+body [class~=arrow] {
+    -webkit-transition-timing-function: linear
+}
+body [class~=arrow] {
+    -moz-transition-timing-function: linear
+}
+body .closeIcon:before,
+body [class~=vertSeparatop],
+body textarea {
+    -ms-transition-property: color, background, fill, border-color
+}
+textarea {
+    box-shadow: none
+}
+.mainWrapper {
+    min-width: 100%
+}
+body .closeIcon:before,
+body [class~=vertSeparatop],
+body textarea {
+    -o-transition-property: color, background, fill, border-color
+}
+section [class~=navBackWrapper] a [class~=closeIcon] {
+    -webkit-transition: all .3s ease
+}
+body [class~=vertSeparatop],
+body textarea,
+body .closeIcon:before {
+    transition-property: color, background, fill, border-color
+}
+textarea {
+    outline: 0
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=links] a:hover {
+    -o-filter: blur(3px)
+}
+body .closeIcon:before,
+body textarea,
+body [class~=vertSeparatop] {
+    -webkit-transition-duration: .3s
+}
+textarea {
+    border-left-width: 0
+}
+section[class~=main] [class~=scrollWrapper] [class~=label] [class~=sectionTitle] {
+    line-height: 10.5pt
+}
+.mainWrapper {
+    white-space: nowrap
+}
+section[class~=main] [class~=scrollWrapper] [class~=arrow],
+.mainWrapper {
+    position: relative
+}
+textarea {
+    border-bottom-width: 0
+}
+section[class~=portfolio] [class~=requestBtnWrapper] {
+    margin-right: auto
+}
+section[class~=portfolio] [class~=requestBtnWrapper] {
+    margin-top: auto
+}
+section[class~=portfolio] [class~=requestBtnWrapper] {
+    bottom: .34375in
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=links] a:hover {
+    -ms-filter: blur(3px)
+}
+section[class~=portfolio] [class~=projects] [class~=project] [class~=tags] [class~=tag] {
+    padding-top: 0
+}
+body .closeIcon:before,
+body [class~=vertSeparatop],
+body textarea {
+    -moz-transition-duration: .3s
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award] [class~=awardText] [class~=textWrapper]:after {
+    border-right-width: 4px
+}
+section.main .scrollWrapper a .arrow:before {
+    -ms-transform-origin: right
+}
+section.portfolio .navBackWrapper {
+    position: absolute
+}
+body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=requestBtnWrapper] {
+    margin-bottom: 180px
+}
+section.portfolio .navBackWrapper {
+    top: 22.5pt
+}
+section.portfolio .navBackWrapper {
+    left: 0
+}
+textarea {
+    border-right-width: 0
+}
+textarea {
+    border-top-width: 0
+}
+body .closeIcon:before,
+body [class~=vertSeparatop],
+body textarea {
+    -ms-transition-duration: .3s
+}
+[class~=preloader] [class~=cls-2] {
+    fill: none
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] h2 {
+    margin-top: 2.5pc
+}
+textarea {
+    border-left-style: none
+}
+textarea {
+    border-bottom-style: none
+}
+body textarea,
+body [class~=vertSeparatop],
+body .closeIcon:before {
+    -o-transition-duration: .3s
+}
+section.main .scrollWrapper .arrow:after {
+    -moz-transform: rotate(-45deg)
+}
+textarea {
+    border-right-style: none
+}
+section[class~=portfolio] [class~=projects] [class~=project] [class~=tags] [class~=tag] {
+    text-transform: uppercase
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=links] {
+    margin-bottom: .364583333in
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award] [class~=awardText] [class~=textWrapper]:after {
+    border-top-width: 6px
+}
+body textarea,
+body .closeIcon:before,
+body [class~=vertSeparatop] {
+    transition-duration: .3s
+}
+textarea {
+    border-top-style: none
+}
+body [class~=vertSeparatop],
+body .closeIcon:before,
+body textarea {
+    -webkit-transition-timing-function: linear
+}
+textarea {
+    border-left-color: currentColor
+}
+section.main .scrollWrapper .arrow:after {
+    -ms-transform: rotate(-45deg)
+}
+textarea {
+    border-bottom-color: currentColor
+}
+textarea {
+    border-right-color: currentColor
+}
+body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=requestBtnWrapper] a:hover {
+    -webkit-filter: blur(0px)
+}
+.mainWrapper {
+    font-size: 0
+}
+textarea {
+    border-top-color: currentColor
+}
+section.portfolio .navBackWrapper {
+    right: 0
+}
+body [class~=vertSeparatop],
+body textarea,
+body .closeIcon:before {
+    -moz-transition-timing-function: linear
+}
+textarea {
+    border-image: none
+}
+section[class~=main] [class~=scrollWrapper] [class~=label] [class~=sectionTitle] {
+    letter-spacing: .3625pc
+}
+select {
+    -webkit-appearance: none;
+    -moz-appearance: none
+}
+[class~=preloader] [class~=cls-2] {
+    stroke: #121212
+}
+select {
+    appearance: none
+}
+body [class~=vertSeparatop],
+body .closeIcon:before,
+body textarea {
+    -ms-transition-timing-function: linear
+}
+section.portfolio .navBackWrapper {
+    z-index: 4
+}
+section[class~=portfolio] [class~=projects] [class~=project] [class~=tags] [class~=tag],
+section[class~=main] [class~=scrollWrapper] [class~=label] [class~=sectionTitle] {
+    margin-left: 0
+}
+body .closeIcon:before,
+body textarea,
+body [class~=vertSeparatop] {
+    -o-transition-timing-function: linear
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=links] {
+    margin-right: auto
+}
+section[class~=portfolio] [class~=pagination] {
+    opacity: 1
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] h2 {
+    font-size: 1.125pc
+}
+select {
+    background: 0
+}
+select {
+    font-family: "Poppins", sans-serif
+}
+select {
+    border-radius: 0
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=links] {
+    margin-top: 30px
+}
+body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=requestBtnWrapper] a {
+    width: 200px
+}
+section[class~=main] [class~=scrollWrapper] a:hover [class~=arrow] {
+    -webkit-transform: scaleX(.8)
+}
+section.main .scrollWrapper a .arrow:before {
+    -o-transform-origin: right
+}
+select {
+    box-shadow: none
+}
+section.main .scrollWrapper .arrow:after {
+    -o-transform: rotate(-45deg)
+}
+body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=requestBtnWrapper] a {
+    height: 3.125pc
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=links] a:hover,
+section[class~=portfolio] [class~=pagination] {
+    -webkit-transition: all .3s ease
+}
+section[class~=portfolio] [class~=pagination] {
+    visibility: visible
+}
+body .closeIcon:before,
+body [class~=vertSeparatop],
+body textarea {
+    transition-timing-function: linear
+}
+body input::-webkit-input-placeholder {
+    -webkit-transition-property: color, background, fill, border-color
+}
+section[class~=main] [class~=scrollWrapper] a:hover [class~=arrow] {
+    -moz-transform: scaleX(.8)
+}
+body input::-webkit-input-placeholder {
+    -moz-transition-property: color, background, fill, border-color
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award] [class~=awardText] {
+    -moz-transition: all .6s ease
+}
+body input::-webkit-input-placeholder {
+    -ms-transition-property: color, background, fill, border-color
+}
+section[class~=main] [class~=scrollWrapper] [class~=label] [class~=sectionTitle] {
+    margin-bottom: .052083333in
+}
+section[class~=main] [class~=scrollWrapper] a:hover [class~=arrow] {
+    -ms-transform: scaleX(.8)
+}
+section [class~=navBackWrapper] a [class~=closeIcon],
+section[class~=portfolio] [class~=pagination] {
+    -moz-transition: all .3s ease
+}
+[class~=preloader] [class~=cls-2] {
+    stroke-width: 10
+}
+body input::-webkit-input-placeholder {
+    -o-transition-property: color, background, fill, border-color
+}
+section[class~=main] [class~=scrollWrapper] [class~=arrow] {
+    display: inline-block
+}
+body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=requestBtnWrapper] [class~=label] {
+    letter-spacing: .010416667in
+}
+section.main .scrollWrapper .arrow:after {
+    transform: rotate(-45deg)
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] h2 {
+    font-weight: 500
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award] [class~=awardText] {
+    transition: all .6s ease
+}
+section.main .scrollWrapper .arrow:after {
+    -webkit-transform-origin: right top
+}
+section[class~=main] [class~=scrollWrapper] [class~=label] [class~=sectionTitle] {
+    margin-right: 0
+}
+body [class~=tag],
+body [class~=closeIcon]:after {
+    -webkit-transition-property: color, background, fill, border-color
+}
+section[class~=portfolio] [class~=pagination] {
+    transition: all .3s ease
+}
+section[class~=main] [class~=scrollWrapper] [class~=label] [class~=sectionTitle] {
+    margin-top: 0
+}
+select {
+    outline: 0
+}
+body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=requestBtnWrapper] a,
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=separator] {
+    margin-left: auto
+}
+section.main .scrollWrapper .label .scrollText {
+    font-weight: 400
+}
+body [class~=tag],
+body [class~=closeIcon]:after {
+    -moz-transition-property: color, background, fill, border-color
+}
+body [class~=closeIcon]:after,
+body [class~=tag] {
+    -ms-transition-property: color, background, fill, border-color
+}
+select {
+    border-left-width: 0
+}
+[class~=preloader] [class~=cls-2] {
+    stroke-miterlimit: 10
+}
+body input::-webkit-input-placeholder {
+    transition-property: color, background, fill, border-color
+}
+body [class~=closeIcon]:after,
+body [class~=tag] {
+    -o-transition-property: color, background, fill, border-color
+}
+section[class~=main] [class~=scrollWrapper] [class~=arrow] {
+    vertical-align: middle
+}
+body [class~=tag],
+body [class~=closeIcon]:after {
+    transition-property: color, background, fill, border-color
+}
+body [class~=tag],
+body [class~=closeIcon]:after {
+    -webkit-transition-duration: .3s
+}
+section[class~=portfolio][class~=singleMode] {
+    overflow: auto
+}
+body input::-webkit-input-placeholder {
+    -webkit-transition-duration: .3s
+}
+select {
+    border-bottom-width: 0
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award] [class~=awardIcon] svg * {
+    fill: #121212
+}
+section.main .scrollWrapper .arrow:after {
+    -moz-transform-origin: right top
+}
+body input::-webkit-input-placeholder {
+    -moz-transition-duration: .3s
+}
+select {
+    border-right-width: 0
+}
+section.main .scrollWrapper .arrow:after {
+    -ms-transform-origin: right top
+}
+body [class~=tag],
+body [class~=closeIcon]:after {
+    -moz-transition-duration: .3s
+}
+body [class~=tag],
+body [class~=closeIcon]:after {
+    -ms-transition-duration: .3s
+}
+section.main .scrollWrapper .arrow:after {
+    -o-transform-origin: right top
+}
+section.main .scrollWrapper .arrow:after {
+    transform-origin: right top
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=links] a:hover {
+    -moz-transition: all .3s ease
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award] [class~=awardText] [class~=textWrapper] {
+    padding-bottom: 0
+}
+body [class~=tag] {
+    -o-transition-duration: .3s
+}
+select {
+    border-top-width: 0
+}
+section.main .scrollWrapper .label .scrollText {
+    font-size: .104166667in
+}
+section[class~=portfolio] [class~=projects] [class~=project] [class~=tags] [class~=tag] {
+    margin-bottom: 3.75pt
+}
+body [class~=tag] {
+    transition-duration: .3s
+}
+section.main .scrollWrapper .label .scrollText {
+    line-height: 10px
+}
+body input::-webkit-input-placeholder {
+    -ms-transition-duration: .3s
+}
+body [class~=tag] {
+    -webkit-transition-timing-function: linear
+}
+.mainWrapper {
+    -webkit-transition: transform 1s cubic-bezier(.86, 0, .07, 1), filter .6s linear
+}
+body input::-webkit-input-placeholder {
+    -o-transition-duration: .3s
+}
+section[class~=portfolio] [class~=projects] [class~=project] [class~=tags] [class~=tag] {
+    margin-right: .052083333in
+}
+body input::-webkit-input-placeholder {
+    transition-duration: .3s
+}
+section.main .scrollWrapper .label .scrollText {
+    letter-spacing: 15px
+}
+section.main .scrollWrapper .label .scrollText {
+    margin-left: 0
+}
+section[class~=portfolio] [class~=requestBtnWrapper] a:hover {
+    filter: blur(3px)
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award] [class~=awardText] [class~=textWrapper]:after {
+    border-left-color: transparent
+}
+body [class~=tag] {
+    -moz-transition-timing-function: linear
+}
+section.portfolio .projects {
+    width: 100%
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] h2,
+section.portfolio .projects {
+    text-align: center
+}
+select {
+    border-left-style: none
+}
+select {
+    border-bottom-style: none
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award] [class~=awardText] [class~=textWrapper]:after {
+    border-bottom-color: transparent
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award] [class~=awardText] [class~=textWrapper]:after {
+    border-right-color: transparent
+}
+section.portfolio .projects {
+    display: inline-block
+}
+section[class~=portfolio] [class~=requestBtnWrapper] a:hover {
+    -webkit-filter: blur(3px)
+}
+section[class~=main] [class~=scrollWrapper] a:hover [class~=arrow] {
+    -o-transform: scaleX(.8)
+}
+section.main .scrollWrapper .label .scrollText {
+    margin-bottom: 0
+}
+body [class~=tag] {
+    -ms-transition-timing-function: linear
+}
+body [class~=tag] {
+    -o-transition-timing-function: linear
+}
+body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=requestBtnWrapper] [class~=label] {
+    max-width: 150pt
+}
+section[class~=portfolio] [class~=requestBtnWrapper] a:hover {
+    -moz-filter: blur(3px)
+}
+body [class~=tag] {
+    transition-timing-function: linear
+}
+section [class~=navBackWrapper] a [class~=closeIcon],
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=links] a:hover {
+    transition: all .3s ease
+}
+section [class~=navBackWrapper] [class~=closeIcon]:before {
+    content: ""
+}
+section.portfolio .projects {
+    vertical-align: middle
+}
+select {
+    border-right-style: none
+}
+body[class~=nightMode] {
+    background: #121212
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award] [class~=awardText] [class~=textWrapper] {
+    padding-right: 7.5pt
+}
+section.main .scrollWrapper .label .scrollText,
+section[class~=portfolio] [class~=projects] [class~=project] [class~=tags] [class~=tag] {
+    margin-top: 0
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] h2 {
+    line-height: .208333333in
+}
+select {
+    border-top-style: none
+}
+section.main .scrollWrapper .label .scrollText {
+    margin-right: 0
+}
+section [class~=navBackWrapper] [class~=closeIcon]:before,
+section[class~=portfolio] [class~=projects] [class~=project] [class~=cover] [class~=showTrigger] {
+    display: block
+}
+section.portfolio .projects {
+    margin-top: -30px
+}
+section[class~=portfolio] [class~=requestBtnWrapper] a:hover {
+    -o-filter: blur(3px)
+}
+body input::-webkit-input-placeholder {
+    -webkit-transition-timing-function: linear
+}
+section.portfolio .projects {
+    padding-left: 0
+}
+section.portfolio .projects {
+    padding-bottom: 172.5pt
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] h2 {
+    letter-spacing: 1.5pt
+}
+section.portfolio .projects {
+    padding-right: 0
+}
+body input::-webkit-input-placeholder {
+    -moz-transition-timing-function: linear
+}
+body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=requestBtnWrapper] [class~=label],
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] h2 {
+    text-transform: uppercase
+}
+body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=requestBtnWrapper] a {
+    margin-bottom: auto
+}
+section[class~=portfolio] [class~=requestBtnWrapper] a:hover {
+    -ms-filter: blur(3px)
+}
+body[class~=nightMode] {
+    color: #fff
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] h3 {
+    margin-left: auto
+}
+body input::-webkit-input-placeholder {
+    -ms-transition-timing-function: linear
+}
+body[class~=nightMode]::-moz-selection {
+    background: #fff
+}
+body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=requestBtnWrapper] a {
+    margin-right: auto
+}
+select {
+    border-left-color: currentColor
+}
+section.portfolio .projects {
+    padding-top: 172.5pt
+}
+section [class~=navBackWrapper] [class~=closeIcon]:before {
+    height: 1.25pc
+}
+select {
+    border-bottom-color: currentColor
+}
+section[class~=form] [class~=navBackWrapper] {
+    position: absolute
+}
+body input::-webkit-input-placeholder {
+    -o-transition-timing-function: linear
+}
+select {
+    border-right-color: currentColor
+}
+section[class~=portfolio] [class~=requestBtnWrapper] a:hover {
+    -webkit-transition: all .3s ease
+}
+body input::-webkit-input-placeholder {
+    transition-timing-function: linear
+}
+section[class~=form] [class~=navBackWrapper] {
+    top: 22.5pt
+}
+body [class~=closeIcon]:after {
+    -o-transition-duration: .3s
+}
+.mainWrapper {
+    -moz-transition: transform 1s cubic-bezier(.86, 0, .07, 1), filter .6s linear
+}
+[class~=swiper-pagination] [class~=swiper-pagination-bullet],
+button {
+    background: 0
+}
+body textarea::-webkit-input-placeholder {
+    -webkit-transition-property: color, background, fill, border-color
+}
+section[class~=main] [class~=scrollWrapper] [class~=arrow] {
+    margin-left: .28125in
+}
+section [class~=navBackWrapper] [class~=closeIcon]:before {
+    width: .75pt
+}
+section[class~=portfolio] [class~=swiper-wrapper] [class~=swiper-slide] {
+    height: auto
+}
+select {
+    border-top-color: currentColor
+}
+section[class~=form] [class~=navBackWrapper] {
+    left: 0
+}
+section[class~=portfolio] [class~=requestBtnWrapper] [class~=label],
+section[class~=portfolio] [class~=projects] [class~=project] [class~=hiddenInfo] {
+    display: none
+}
+body[class~=nightMode]::-moz-selection {
+    color: #121212
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award] [class~=awardText] [class~=textWrapper]:after {
+    border-top-color: #121212
+}
+select {
+    border-image: none
+}
+.mainWrapper {
+    -ms-transition: transform 1s cubic-bezier(.86, 0, .07, 1), filter .6s linear
+}
+section.main .scrollWrapper a .arrow:before {
+    transform-origin: right
+}
+body textarea::-webkit-input-placeholder {
+    -moz-transition-property: color, background, fill, border-color
+}
+section [class~=navBackWrapper] [class~=closeIcon]:before,
+section [class~=separator] {
+    background: #121212
+}
+section[class~=form] [class~=navBackWrapper] {
+    right: 0
+}
+.mainWrapper {
+    -o-transition: transform 1s cubic-bezier(.86, 0, .07, 1), filter .6s linear
+}
+section[class~=form] [class~=title] {
+    font-size: 2.25pc
+}
+#awwwards {
+    z-index: 999
+}
+section [class~=separator] {
+    width: .208333333in
+}
+section[class~=form] [class~=title] {
+    font-weight: 700
+}
+body textarea::-webkit-input-placeholder {
+    -ms-transition-property: color, background, fill, border-color
+}
+body textarea::-webkit-input-placeholder {
+    -o-transition-property: color, background, fill, border-color
+}
+.swiper-slide-active .project .cover {
+    -webkit-transform: translateZ(100px)
+}
+button {
+    -webkit-appearance: none
+}
+body [class~=closeIcon]:after {
+    transition-duration: .3s
+}
+.mainWrapper {
+    transition: transform 1s cubic-bezier(.86, 0, .07, 1), filter .6s linear
+}
+section[class~=form] [class~=title] {
+    line-height: 30pt
+}
+section[class~=main] [class~=scrollWrapper] a:hover [class~=arrow] {
+    transform: scaleX(.8)
+}
+section[class~=portfolio] [class~=requestBtnWrapper] a:hover {
+    -moz-transition: all .3s ease
+}
+body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=requestBtnWrapper] a,
+section [class~=navBackWrapper] {
+    margin-top: auto
+}
+button {
+    -moz-appearance: none
+}
+button {
+    appearance: none
+}
+section[class~=portfolio] [class~=projects] [class~=project] [class~=info] {
+    -webkit-transition: opacity .3s ease
+}
+section[class~=form] [class~=title] {
+    letter-spacing: 1px
+}
+section[class~=portfolio] [class~=requestBtnWrapper] a:hover {
+    transition: all .3s ease
+}
+section[class~=portfolio] [class~=navBackWrapper] [class~=text] {
+    letter-spacing: 18.6px
+}
+body textarea::-webkit-input-placeholder {
+    transition-property: color, background, fill, border-color
+}
+section[class~=form] [class~=title] {
+    text-transform: uppercase
+}
+.mainWrapper * {
+    white-space: normal
+}
+section [class~=navBackWrapper] [class~=closeIcon]:before {
+    top: 0
+}
+section[class~=form] [class~=title] {
+    margin-left: 0
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award] [class~=awardText] [class~=textWrapper]:after,
+section[class~=portfolio] [class~=projects] [class~=project][class~=active]:before {
+    position: absolute
+}
+body [class~=closeIcon]:after {
+    -webkit-transition-timing-function: linear
+}
+section [class~=separator] {
+    height: 1px
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] h3 {
+    margin-bottom: 1.875pc
+}
+section[class~=portfolio] [class~=projects] [class~=project] [class~=cover] [class~=showTrigger] {
+    width: 100%
+}
+button {
+    font-family: "Poppins", sans-serif
+}
+body textarea::-webkit-input-placeholder {
+    -webkit-transition-duration: .3s
+}
+section[class~=portfolio] [class~=projects] [class~=project] [class~=cover] [class~=showTrigger] {
+    height: 100%
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award] [class~=awardText] [class~=textWrapper]:after {
+    top: 100%
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=info] {
+    -webkit-transition: opacity .3s, max-width 0;
+    -moz-transition: opacity .3s, max-width 0
+}
+button {
+    border-radius: 0
+}
+body [class~=closeIcon]:after {
+    -moz-transition-timing-function: linear
+}
+section[class~=portfolio][class~=singleMode] [class~=pagination] {
+    opacity: 0
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] h3,
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=separator],
+section[class~=portfolio] [class~=projects] [class~=project]:before,
+section [class~=navBackWrapper] {
+    margin-right: auto
+}
+body [class~=closeIcon]:after {
+    -ms-transition-timing-function: linear
+}
+section[class~=portfolio] [class~=projects] [class~=project] [class~=info] {
+    -moz-transition: opacity .3s ease
+}
+section[class~=portfolio] [class~=projects] [class~=project]:before {
+    content: "";
+    top: .729166667in
+}
+section[class~=portfolio][class~=singleMode] [class~=pagination] {
+    visibility: hidden
+}
+section [class~=navBackWrapper],
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award] [class~=awardText] [class~=textWrapper]:after,
+section[class~=portfolio] [class~=projects] [class~=project]:before,
+body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=requestBtnWrapper] [class~=label] {
+    margin-left: auto
+}
+body [class~=closeIcon]:after {
+    -o-transition-timing-function: linear
+}
+section [class~=navBackWrapper],
+section[class~=portfolio] [class~=projects] [class~=project]:before,
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=separator] {
+    margin-bottom: auto
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active]:before {
+    left: 0
+}
+body textarea::-webkit-input-placeholder {
+    -moz-transition-duration: .3s
+}
+button {
+    box-shadow: none
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=info] {
+    -ms-transition: opacity .3s, max-width 0
+}
+body [class~=closeIcon]:after {
+    transition-timing-function: linear
+}
+section[class~=form] [class~=title] {
+    margin-bottom: 0
+}
+button {
+    outline: 0
+}
+button {
+    border-left-width: 0
+}
+body input [class~=placeholder] {
+    -webkit-transition-property: color, background, fill, border-color
+}
+body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=requestBtnWrapper] a {
+    line-height: .489583333in
+}
+section[class~=portfolio] [class~=projects] [class~=project] [class~=info] {
+    transition: opacity .3s ease
+}
+button {
+    border-bottom-width: 0
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=info] {
+    -o-transition: opacity .3s, max-width 0
+}
+section[class~=form] [class~=title] {
+    margin-right: 0
+}
+body input [class~=placeholder] {
+    -moz-transition-property: color, background, fill, border-color
+}
+section[class~=portfolio] [class~=projects] [class~=project] {
+    display: inline-block
+}
+section.portfolio .projects .project .cover,
+section[class~=portfolio] [class~=projects] [class~=project] [class~=info] {
+    -webkit-transition: all 1s ease
+}
+button {
+    border-right-width: 0
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award] [class~=awardText] [class~=textWrapper] {
+    padding-top: 0
+}
+section[class~=form] [class~=title] {
+    margin-top: 0
+}
+body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=requestBtnWrapper] a:hover {
+    -moz-filter: blur(0px)
+}
+section[class~=form] [class~=desc] {
+    font-size: .625pc
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] h3 {
+    margin-top: 2.5pc
+}
+body input [class~=placeholder] {
+    -ms-transition-property: color, background, fill, border-color
+}
+body input [class~=placeholder] {
+    -o-transition-property: color, background, fill, border-color
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] h3 {
+    font-size: 1.125pc
+}
+section[class~=form] [class~=desc],
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] h3 {
+    font-weight: 500
+}
+body input [class~=placeholder] {
+    transition-property: color, background, fill, border-color
+}
+body input [class~=placeholder] {
+    -webkit-transition-duration: .3s
+}
+button {
+    border-top-width: 0
+}
+section[class~=form] [class~=desc] {
+    line-height: 12pt
+}
+body textarea::-webkit-input-placeholder {
+    -ms-transition-duration: .3s
+}
+section[class~=portfolio] [class~=projects] [class~=project] [class~=info],
+section.portfolio .projects .project .cover {
+    -moz-transition: all 1s ease
+}
+section [class~=navBackWrapper],
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] h3 {
+    text-align: center
+}
+section[class~=portfolio] [class~=projects] [class~=project] [class~=info],
+section.portfolio .projects .project .cover {
+    transition: all 1s ease
+}
+section [class~=navBackWrapper],
+section[class~=form] [class~=desc] {
+    text-transform: uppercase
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=info] {
+    transition: opacity .3s, max-width 0
+}
+section[class~=form] [class~=desc] {
+    letter-spacing: 6.7px
+}
+body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=requestBtnWrapper] [class~=label] {
+    margin-bottom: 27px
+}
+section[class~=main] [class~=scrollWrapper] a [class~=arrow]:after {
+    -webkit-transition: all .3s ease
+}
+section[class~=portfolio] [class~=projects] [class~=project]:before,
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=separator] {
+    margin-top: auto
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active]:before,
+section[class~=portfolio] [class~=projects] [class~=project]:before {
+    right: 0
+}
+button {
+    border-left-style: none
+}
+body textarea::-webkit-input-placeholder {
+    -o-transition-duration: .3s
+}
+section[class~=portfolio] [class~=projects] [class~=project] {
+    vertical-align: middle
+}
+section [class~=navBackWrapper] [class~=closeIcon]:before {
+    left: 50%
+}
+section[class~=form] [class~=desc] {
+    margin-left: 0
+}
+body input [class~=placeholder] {
+    -moz-transition-duration: .3s
+}
+section[class~=portfolio],
+section[class~=main] {
+    height: 100%
+}
+body input [class~=placeholder] {
+    -ms-transition-duration: .3s
+}
+section[class~=portfolio] [class~=projects] [class~=project] {
+    position: relative
+}
+body textarea::-webkit-input-placeholder {
+    transition-duration: .3s
+}
+section[class~=main] [class~=scrollWrapper] a [class~=arrow]:after {
+    -moz-transition: all .3s ease
+}
+body input [class~=placeholder] {
+    -o-transition-duration: .3s
+}
+body input [class~=placeholder] {
+    transition-duration: .3s
+}
+section[class~=main],
+section[class~=portfolio] {
+    width: 100%
+}
+body textarea::-webkit-input-placeholder {
+    -webkit-transition-timing-function: linear
+}
+section[class~=main],
+section[class~=portfolio] {
+    display: inline-block
+}
+body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=requestBtnWrapper] a:hover {
+    -o-filter: blur(0px)
+}
+button {
+    border-bottom-style: none
+}
+body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=requestBtnWrapper] a {
+    padding-top: 2.25pt
+}
+section[class~=portfolio] [class~=projects] [class~=project]:before {
+    position: absolute
+}
+body textarea::-webkit-input-placeholder {
+    -moz-transition-timing-function: linear
+}
+section[class~=form] [class~=desc] {
+    margin-bottom: 24px
+}
+body textarea::-webkit-input-placeholder {
+    -ms-transition-timing-function: linear
+}
+body input [class~=placeholder] {
+    -webkit-transition-timing-function: linear
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content],
+section[class~=form] [class~=outer] {
+    padding-left: 0
+}
+button {
+    border-right-style: none
+}
+section[class~=portfolio] [class~=projects] [class~=project]:before,
+body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=requestBtnWrapper] a {
+    display: block
+}
+section[class~=form] [class~=desc] {
+    margin-right: 0
+}
+body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=requestBtnWrapper] [class~=label],
+section[class~=form] [class~=desc] {
+    margin-top: 0
+}
+section[class~=portfolio] [class~=projects] [class~=project]:before {
+    width: 3.854166667in
+}
+section.portfolio .projects .project .title {
+    font-size: .1875in
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=info] {
+    width: auto!important
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award] [class~=awardText] [class~=textWrapper]:after {
+    margin-bottom: auto
+}
+body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=requestBtnWrapper] [class~=label] {
+    margin-right: auto
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] h3 {
+    line-height: .208333333in
+}
+#awwwards {
+    -webkit-transition: all 1s ease
+}
+button {
+    border-top-style: none
+}
+body input [class~=placeholder] {
+    -moz-transition-timing-function: linear
+}
+section[class~=form] [class~=outer] {
+    display: table
+}
+body input [class~=placeholder] {
+    -ms-transition-timing-function: linear
+}
+body input [class~=placeholder] {
+    -o-transition-timing-function: linear
+}
+section[class~=portfolio] [class~=projects] [class~=project] {
+    padding-right: .364583333in
+}
+body textarea::-webkit-input-placeholder {
+    -o-transition-timing-function: linear
+}
+[class~=swiper-pagination] [class~=swiper-pagination-bullet] {
+    width: 3.125pc
+}
+section[class~=portfolio] [class~=projects] [class~=project]:before {
+    height: 140px
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active]:before {
+    bottom: auto
+}
+body textarea::-webkit-input-placeholder {
+    transition-timing-function: linear
+}
+section[class~=portfolio] [class~=projects] [class~=project]:before {
+    border-left-width: .010416667in
+}
+body input [class~=placeholder] {
+    transition-timing-function: linear
+}
+body textarea [class~=placeholder] {
+    -webkit-transition-property: color, background, fill, border-color
+}
+section.portfolio .projects .project .title {
+    font-weight: 700
+}
+body textarea [class~=placeholder] {
+    -moz-transition-property: color, background, fill, border-color
+}
+section.portfolio .projects .project.active .hiddenInfo .content img+h2 {
+    margin-top: .625pc
+}
+section[class~=portfolio] {
+    position: relative
+}
+section[class~=portfolio] [class~=projects] [class~=project]:before {
+    border-bottom-width: .010416667in
+}
+button {
+    border-left-color: currentColor
+}
+section[class~=portfolio],
+section[class~=form],
+input {
+    text-align: center
+}
+section[class~=form] [class~=outer] {
+    padding-bottom: 50px
+}
+body textarea [class~=placeholder] {
+    -ms-transition-property: color, background, fill, border-color
+}
+body textarea [class~=placeholder] {
+    -o-transition-property: color, background, fill, border-color
+}
+section.portfolio .projects .project .title {
+    text-align: right
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] h3 {
+    letter-spacing: 1.5pt
+}
+section[class~=portfolio] {
+    overflow: hidden
+}
+section.portfolio .projects .project .title {
+    line-height: 11px
+}
+section[class~=form],
+.preloader {
+    position: fixed
+}
+body textarea [class~=placeholder] {
+    transition-property: color, background, fill, border-color
+}
+body input::-moz-placeholder {
+    -webkit-transition-property: color, background, fill, border-color
+}
+section[class~=form] [class~=outer],
+section[class~=form] {
+    width: 100%
+}
+section[class~=form],
+section[class~=form] [class~=outer] {
+    height: 100%
+}
+button {
+    border-bottom-color: currentColor
+}
+[class~=swiper-slide] {
+    width: 37.5pc
+}
+[class~=swiper-pagination] [class~=swiper-pagination-bullet] {
+    margin-left: 0!important
+}
+.swiper-slide-active .project .cover {
+    -moz-transform: translateZ(100px)
+}
+button {
+    border-right-color: currentColor
+}
+section[class~=form] {
+    left: 0
+}
+section[class~=form] [class~=outer] {
+    padding-right: 0
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] {
+    padding-bottom: 2.5pc
+}
+section[class~=form] [class~=outer] {
+    padding-top: 200px
+}
+button {
+    border-top-color: currentColor
+}
+body textarea [class~=placeholder] {
+    -webkit-transition-duration: .3s
+}
+body textarea [class~=placeholder] {
+    -moz-transition-duration: .3s
+}
+button {
+    border-image: none
+}
+section.portfolio .projects .project .title,
+input {
+    letter-spacing: 1px
+}
+body textarea [class~=placeholder] {
+    -ms-transition-duration: .3s
+}
+section[class~=portfolio] [class~=projects] [class~=project] {
+    opacity: 1
+}
+body input::-moz-placeholder {
+    -moz-transition-property: color, background, fill, border-color
+}
+section[class~=form] {
+    top: 0
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] h3,
+section.portfolio .projects .project .title {
+    text-transform: uppercase
+}
+section[class~=form] [class~=help-block],
+section [class~=navBackWrapper] [class~=closeIcon]:before,
+section.portfolio .projects .project.active .cover {
+    position: absolute
+}
+input {
+    font-size: .875pc
+}
+section [class~=navBackWrapper] [class~=closeIcon]:before {
+    margin-left: -.0625pc
+}
+.preloader {
+    width: 100%
+}
+body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=requestBtnWrapper] a:hover {
+    -ms-filter: blur(0px)
+}
+input {
+    font-weight: 400
+}
+body.nightMode section.portfolio .projects .project .hiddenInfo .awards .award .awardText .textWrapper:after {
+    border-bottom-color: transparent
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active]:before {
+    margin-left: auto
+}
+body input::-moz-placeholder {
+    -ms-transition-property: color, background, fill, border-color
+}
+body textarea [class~=placeholder] {
+    -o-transition-duration: .3s
+}
+section[class~=portfolio] [class~=projects] [class~=project]:before {
+    border-right-width: .010416667in
+}
+input {
+    line-height: 20px
+}
+.swiper-slide-active .project .cover {
+    -ms-transform: translateZ(100px)
+}
+section[class~=main] [class~=scrollWrapper] a [class~=arrow]:after {
+    transition: all .3s ease
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award] [class~=awardText] {
+    padding-left: 50%
+}
+section[class~=form] {
+    overflow: auto
+}
+section[class~=form] {
+    opacity: 0
+}
+body textarea [class~=placeholder] {
+    transition-duration: .3s
+}
+body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=requestBtnWrapper] a:hover {
+    font-size: 13px
+}
+section[class~=form] {
+    visibility: hidden
+}
+section[class~=portfolio] [class~=projects] [class~=project]:before {
+    border-top-width: .010416667in
+}
+section[class~=portfolio] [class~=projects] [class~=project]:before {
+    border-left-style: solid
+}
+input {
+    color: #121212
+}
+section.form .inner {
+    display: table-cell
+}
+section[class~=form] {
+    -webkit-transition: opacity .6s linear, visibility .6s linear
+}
+section.form .inner {
+    vertical-align: middle
+}
+input {
+    padding-left: 1.125pc
+}
+input {
+    padding-bottom: 1.125pc
+}
+section[class~=portfolio] [class~=projects] [class~=project] {
+    visibility: visible
+}
+body input::-moz-placeholder {
+    -o-transition-property: color, background, fill, border-color
+}
+section.portfolio .projects .project .title {
+    margin-left: 0
+}
+body input::-moz-placeholder {
+    transition-property: color, background, fill, border-color
+}
+section[class~=form] {
+    -moz-transition: opacity .6s linear, visibility .6s linear
+}
+section[class~=form] {
+    -ms-transition: opacity .6s linear, visibility .6s linear
+}
+input {
+    padding-right: 1.125pc
+}
+input,
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award] [class~=awardText] [class~=textWrapper]:after,
+section[class~=portfolio] [class~=projects] [class~=project][class~=active]:before,
+section [class~=navBackWrapper] a div {
+    margin-right: auto
+}
+input {
+    padding-top: 1.125pc
+}
+input {
+    border-bottom-width: .0625pc
+}
+section.portfolio .projects .project .title {
+    margin-bottom: 15pt
+}
+body input::-moz-placeholder {
+    -webkit-transition-duration: .3s
+}
+#awwwards a,
+section [class~=navBackWrapper] [class~=closeIcon]:after {
+    display: block
+}
+section[class~=form] {
+    -o-transition: opacity .6s linear, visibility .6s linear
+}
+section.portfolio .projects .project.active .cover,
+section[class~=portfolio] [class~=projects] [class~=project],
+section[class~=form] [class~=help-block],
+[class~=preloader] img {
+    left: 0
+}
+.preloader,
+section.error {
+    height: 100%
+}
+body textarea [class~=placeholder] {
+    -webkit-transition-timing-function: linear
+}
+section[class~=form] {
+    transition: opacity .6s linear, visibility .6s linear
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] p {
+    font-size: .875pc
+}
+body input::-moz-placeholder {
+    -moz-transition-duration: .3s
+}
+section[class~=portfolio] [class~=projects] [class~=project]:before,
+input {
+    border-bottom-style: solid
+}
+body textarea [class~=placeholder] {
+    -moz-transition-timing-function: linear
+}
+section.portfolio .projects .project.active a.showTrigger {
+    cursor: default
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] h1:first-child {
+    margin-top: 0
+}
+input {
+    border-bottom-color: #121212
+}
+section.portfolio .projects .project .title {
+    margin-right: 0
+}
+section [class~=navBackWrapper] [class~=closeIcon]:after {
+    content: ""
+}
+section[class~=portfolio] [class~=projects] [class~=project]:before {
+    border-right-style: solid
+}
+body textarea [class~=placeholder] {
+    -ms-transition-timing-function: linear
+}
+input,
+section.error {
+    width: 100%
+}
+section[class~=portfolio] [class~=projects] [class~=project]:before {
+    border-top-style: solid
+}
+section.portfolio .projects .project .title,
+input {
+    margin-top: 0
+}
+input {
+    border-image: none
+}
+body input::-moz-placeholder {
+    -ms-transition-duration: .3s
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] p {
+    font-weight: 300
+}
+section[class~=main] [class~=scrollWrapper] a [class~=arrow]:after {
+    -webkit-transform-origin: right
+}
+section.portfolio .projects .project .title,
+section.portfolio .projects .project .tags {
+    white-space: nowrap
+}
+body input::-moz-placeholder {
+    -o-transition-duration: .3s
+}
+body input::-moz-placeholder {
+    transition-duration: .3s
+}
+[class~=preloader] img,
+section[class~=form] [class~=help-block],
+section[class~=portfolio] [class~=projects] [class~=project],
+section.portfolio .projects .project.active .cover {
+    right: 0
+}
+section.error {
+    display: table
+}
+section[class~=form] [class~=help-block],
+textarea {
+    text-align: center
+}
+body[class~=nightMode]::selection,
+.preloader {
+    background: #fff
+}
+input {
+    margin-left: auto
+}
+section[class~=form] [class~=help-block],
+input {
+    margin-bottom: 0
+}
+body input::-moz-placeholder {
+    -webkit-transition-timing-function: linear
+}
+body textarea [class~=placeholder] {
+    -o-transition-timing-function: linear
+}
+body input::-moz-placeholder {
+    -moz-transition-timing-function: linear
+}
+#awwwards a {
+    width: .9375in
+}
+[class~=preloader] img {
+    opacity: 0
+}
+[class~=preloader] img,
+section[class~=portfolio] [class~=projects] [class~=project][class~=active]:after {
+    position: absolute
+}
+section[class~=form] [class~=help-block] {
+    margin-left: 0
+}
+input {
+    height: .59375in
+}
+[class~=preloader] img,
+section[class~=portfolio] [class~=projects] [class~=project][class~=active]:before {
+    margin-bottom: auto
+}
+body input::-moz-placeholder {
+    -ms-transition-timing-function: linear
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active]:before,
+section [class~=navBackWrapper] a div,
+section.portfolio .projects .project.active .cover,
+[class~=preloader] img {
+    margin-top: auto
+}
+section[class~=portfolio] [class~=projects] [class~=project]:before {
+    border-left-color: #121212
+}
+section [class~=navBackWrapper] [class~=closeIcon]:after {
+    height: 1.25pc
+}
+input {
+    max-width: 20pc
+}
+body textarea [class~=placeholder] {
+    transition-timing-function: linear
+}
+section.portfolio .projects .project .info {
+    display: inline-block
+}
+textarea {
+    font-size: .875pc
+}
+section [class~=navBackWrapper] [class~=closeIcon]:after {
+    width: .75pt
+}
+textarea {
+    font-weight: 400
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] p {
+    text-align: justify
+}
+section[class~=portfolio] [class~=projects] [class~=project]:before {
+    border-bottom-color: #121212
+}
+section.portfolio .projects .project .info {
+    vertical-align: middle
+}
+[class~=preloader] img,
+.preloader {
+    top: 0
+}
+.preloader,
+section[class~=portfolio] [class~=projects] [class~=project][class~=active]:after {
+    left: 0
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] {
+    padding-right: 0
+}
+section.portfolio .projects .project.active .cover {
+    bottom: auto
+}
+textarea {
+    line-height: 20px
+}
+[class~=preloader] img {
+    bottom: 0
+}
+body[class~=nightMode]::selection,
+textarea {
+    color: #121212
+}
+textarea {
+    letter-spacing: .75pt
+}
+section[class~=form] [class~=help-block] {
+    margin-right: 0
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award] [class~=awardText] [class~=textWrapper],
+body[class~=nightMode] a {
+    color: #fff
+}
+body input::-moz-placeholder {
+    -o-transition-timing-function: linear
+}
+section[class~=portfolio] [class~=projects] [class~=project],
+textarea,
+[class~=preloader] img,
+section.portfolio .projects .project.active .cover {
+    margin-left: auto
+}
+section.portfolio .projects .project .info {
+    position: relative
+}
+section[class~=portfolio] [class~=projects] [class~=project]:before {
+    border-right-color: #121212
+}
+body.nightMode input {
+    border-left-color: #fff;
+    border-bottom-color: #fff
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] p {
+    line-height: 22.5pt
+}
+body input::-moz-placeholder {
+    transition-timing-function: linear
+}
+textarea {
+    padding-left: 1.125pc
+}
+[class~=preloader] img,
+section.portfolio .projects .project.active .cover,
+textarea,
+section[class~=portfolio] [class~=projects] [class~=project] {
+    margin-right: auto
+}
+body textarea::-moz-placeholder {
+    -webkit-transition-property: color, background, fill, border-color
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] p {
+    letter-spacing: 1.5pt
+}
+body textarea::-moz-placeholder {
+    -moz-transition-property: color, background, fill, border-color
+}
+section[class~=portfolio] [class~=projects] [class~=project],
+section.portfolio .projects .project.active .cover {
+    margin-bottom: auto
+}
+[class~=preloader] img {
+    width: 120pt
+}
+section[class~=form] [class~=help-block],
+textarea {
+    margin-top: 0
+}
+textarea {
+    padding-bottom: 1.125pc
+}
+textarea {
+    padding-right: 1.125pc
+}
+section [class~=navBackWrapper] [class~=closeIcon]:after {
+    background: #121212
+}
+textarea {
+    padding-top: 1.125pc
+}
+textarea {
+    border-bottom-width: .0625pc
+}
+body textarea::-moz-placeholder {
+    -ms-transition-property: color, background, fill, border-color
+}
+section.portfolio .projects .project.active .cover {
+    width: 25pc
+}
+textarea {
+    border-bottom-style: solid
+}
+section[class~=form] [class~=help-block] {
+    opacity: .3
+}
+textarea {
+    border-bottom-color: #121212
+}
+section[class~=portfolio] [class~=projects] [class~=project]:before {
+    border-top-color: #121212
+}
+[class~=preloader] img {
+    height: 48pt
+}
+textarea,
+section[class~=portfolio] [class~=projects] [class~=project]:before {
+    border-image: none
+}
+body[class~=nightMode] textarea,
+body.nightMode input {
+    border-right-color: #fff
+}
+section.portfolio .projects .project .info {
+    z-index: 2
+}
+body textarea::-moz-placeholder {
+    -o-transition-property: color, background, fill, border-color
+}
+body[class~=nightMode] textarea,
+body.nightMode input {
+    border-top-color: #fff
+}
+section.portfolio .projects .project.active .cover {
+    height: 1.666666667in
+}
+section[class~=portfolio] [class~=projects] [class~=project] [class~=cover] {
+    display: inline-block
+}
+section[class~=main] [class~=scrollWrapper] a:hover [class~=arrow]:before {
+    width: 0
+}
+section[class~=portfolio] [class~=projects] [class~=project] [class~=cover] {
+    vertical-align: middle
+}
+section[class~=portfolio] [class~=projects] [class~=project]:before {
+    -webkit-box-sizing: border-box!important
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active]:after,
+.preloader svg {
+    right: 0
+}
+body[class~=nightMode] textarea,
+body.nightMode input {
+    color: #fff
+}
+.preloader svg,
+section.portfolio .projects .project.active .cover {
+    top: 0
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] p,
+section[class~=portfolio] [class~=projects] [class~=project][class~=active]:after,
+.preloader svg,
+section[class~=form] [class~=form-group] {
+    margin-left: auto
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] p,
+textarea {
+    margin-bottom: 0
+}
+body[class~=nightMode] textarea {
+    border-left-color: #fff
+}
+body textarea::-moz-placeholder {
+    transition-property: color, background, fill, border-color
+}
+.preloader svg {
+    opacity: 0
+}
+body[class~=nightMode] textarea {
+    border-bottom-color: #fff
+}
+body textarea::-moz-placeholder {
+    -webkit-transition-duration: .3s
+}
+textarea {
+    height: .59375in
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active]:after {
+    bottom: auto
+}
+body textarea::-moz-placeholder {
+    -moz-transition-duration: .3s
+}
+body textarea::-moz-placeholder {
+    -ms-transition-duration: .3s
+}
+textarea {
+    width: 100%
+}
+body textarea::-moz-placeholder {
+    -o-transition-duration: .3s
+}
+textarea {
+    max-width: 20pc
+}
+body textarea::-moz-placeholder {
+    transition-duration: .3s
+}
+.preloader svg,
+section[class~=error] [class~=navBackWrapper] {
+    position: absolute
+}
+input::-webkit-input-placeholder {
+    color: #121212
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=title] {
+    font-size: 2.25pc
+}
+.preloader svg {
+    left: 0
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=title] {
+    font-weight: 700
+}
+input::-webkit-input-placeholder {
+    text-transform: uppercase
+}
+body[class~=nightMode] input::-webkit-input-placeholder {
+    color: #fff
+}
+body textarea::-moz-placeholder {
+    -webkit-transition-timing-function: linear
+}
+body[class~=nightMode] textarea::-webkit-input-placeholder {
+    color: #fff
+}
+section[class~=portfolio] [class~=projects] [class~=project] [class~=cover] {
+    position: relative
+}
+.swiper-slide-active .project .cover {
+    -o-transform: translateZ(100px)
+}
+.preloader svg {
+    bottom: 0
+}
+body textarea::-moz-placeholder {
+    -moz-transition-timing-function: linear
+}
+textarea::-webkit-input-placeholder {
+    color: #121212
+}
+section[class~=portfolio] [class~=projects] [class~=project] [class~=cover] {
+    z-index: 2
+}
+.preloader {
+    z-index: 20
+}
+.preloader svg,
+section[class~=portfolio] [class~=projects] [class~=project],
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award] [class~=awardText] [class~=textWrapper]:after {
+    margin-top: auto
+}
+body[class~=nightMode] input::-moz-placeholder {
+    color: #fff
+}
+body.nightMode textarea::-moz-placeholder {
+    color: #fff
+}
+section[class~=form] [class~=form-group] {
+    margin-bottom: 23px
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award] [class~=awardText] [class~=textWrapper] {
+    background: #121212
+}
+textarea::-webkit-input-placeholder {
+    text-transform: uppercase
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] {
+    padding-top: 2.5pc
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=title],
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=info] {
+    text-align: center
+}
+body textarea::-moz-placeholder {
+    -ms-transition-timing-function: linear
+}
+.bullet {
+    width: 50px
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] p,
+section[class~=form] [class~=form-group],
+.preloader svg {
+    margin-right: auto
+}
+input::-moz-placeholder {
+    color: #121212
+}
+body textarea::-moz-placeholder {
+    -o-transition-timing-function: linear
+}
+section [class~=navBackWrapper] [class~=closeIcon]:after,
+section[class~=portfolio] [class~=projects] [class~=project]:after {
+    top: 0
+}
+section [class~=navBackWrapper] [class~=closeIcon]:after {
+    left: 50%
+}
+section[class~=main] [class~=scrollWrapper] a:hover [class~=arrow]:after {
+    width: 0
+}
+section [class~=navBackWrapper] [class~=closeIcon]:after {
+    margin-left: -.0625pc
+}
+input::-moz-placeholder {
+    text-transform: uppercase
+}
+body textarea::-moz-placeholder {
+    transition-timing-function: linear
+}
+.preloader svg {
+    margin-bottom: auto
+}
+body input:-moz-placeholder {
+    -webkit-transition-property: color, background, fill, border-color
+}
+section[class~=form] [class~=form-group],
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] p {
+    margin-top: 0
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=title] {
+    line-height: 2.5pc
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award] [class~=awardText] [class~=textWrapper] {
+    font-weight: 400
+}
+section[class~=portfolio] [class~=projects] [class~=project]:before {
+    -moz-box-sizing: border-box!important
+}
+body input:-moz-placeholder {
+    -moz-transition-property: color, background, fill, border-color
+}
+textarea::-moz-placeholder {
+    color: #121212;
+    text-transform: uppercase
+}
+input:-moz-placeholder {
+    color: #121212
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=title] {
+    letter-spacing: 6.75pt
+}
+body[class~=nightMode] input:-moz-placeholder {
+    color: #fff
+}
+input:-moz-placeholder {
+    text-transform: uppercase
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] {
+    width: 960px
+}
+.bullet {
+    height: 2.25pc
+}
+textarea:-moz-placeholder {
+    color: #121212
+}
+section[class~=portfolio] [class~=projects] [class~=project]:before {
+    box-sizing: border-box!important
+}
+textarea:-moz-placeholder {
+    text-transform: uppercase
+}
+body[class~=nightMode] textarea:-moz-placeholder {
+    color: #fff
+}
+section[class~=portfolio] [class~=projects] [class~=project] [class~=cover],
+section [class~=navBackWrapper] a {
+    display: inline-block
+}
+section[class~=error] [class~=navBackWrapper] {
+    top: 30px
+}
+[class~=bullet]:before,
+section[class~=portfolio] [class~=projects] [class~=project]:after {
+    content: ""
+}
+input:-ms-input-placeholder {
+    color: #121212
+}
+section[class~=error] [class~=navBackWrapper] {
+    left: 0
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] {
+    margin-left: -11.25pc
+}
+input:-ms-input-placeholder {
+    text-transform: uppercase
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award] [class~=awardText] [class~=textWrapper] {
+    font-size: 12px
+}
+textarea:-ms-input-placeholder {
+    color: #121212
+}
+.preloader svg {
+    width: 120pt
+}
+.preloader svg {
+    height: 48pt
+}
+section [class~=navBackWrapper] [class~=closeIcon]:after,
+.bullet {
+    position: absolute
+}
+[class~=bullet]:before {
+    -webkit-transition: transform .3s ease
+}
+section[class~=error] [class~=navBackWrapper] {
+    right: 0
+}
+body[class~=nightMode] input:-ms-input-placeholder {
+    color: #fff
+}
+body input:-moz-placeholder {
+    -ms-transition-property: color, background, fill, border-color
+}
+section[class~=portfolio] [class~=projects] [class~=project] [class~=cover],
+section[class~=error] [class~=inner] {
+    vertical-align: middle
+}
+section[class~=error] [class~=navBackWrapper] {
+    z-index: 2
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award] [class~=awardIcon] {
+    -webkit-transition: all .6s ease
+}
+body[class~=nightMode] textarea:-ms-input-placeholder {
+    color: #fff
+}
+section[class~=portfolio] [class~=projects] [class~=project] {
+    -webkit-transition: width 1s, transform 0s, padding-right 1s, opacity 1s
+}
+body input:-moz-placeholder {
+    -o-transition-property: color, background, fill, border-color
+}
+[class~=bullet]:before {
+    -moz-transition: transform .3s ease
+}
+body[class~=nightMode] button {
+    background: #fff
+}
+[class~=bullet]:before {
+    transition: transform .3s ease
+}
+body input:-moz-placeholder {
+    transition-property: color, background, fill, border-color
+}
+textarea:-ms-input-placeholder {
+    text-transform: uppercase
+}
+textarea {
+    resize: vertical
+}
+body[class~=nightMode] button {
+    color: #121212
+}
+section.portfolio .projects .project.active .hiddenInfo .content h3:first-child,
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] h2:first-child {
+    margin-top: 0
+}
+section[class~=main] [class~=scrollWrapper] a [class~=arrow]:after {
+    -moz-transform-origin: right
+}
+section[class~=portfolio] [class~=projects] [class~=project]:after,
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo],
+section[class~=portfolio] [class~=projects] [class~=project][class~=active]:after {
+    margin-bottom: auto
+}
+section[class~=error] [class~=inner] {
+    display: table-cell
+}
+section [class~=navBackWrapper] [class~=closeIcon]:before {
+    -webkit-transform: rotate(45deg)
+}
+section[class~=portfolio] [class~=projects] [class~=project] [class~=cover] {
+    width: 200px
+}
+.bullet {
+    z-index: 1232131
+}
+section[class~=portfolio] [class~=projects] [class~=project]:after {
+    bottom: 0;
+    margin-left: auto
+}
+body input:-moz-placeholder {
+    -webkit-transition-duration: .3s
+}
+body input:-moz-placeholder {
+    -moz-transition-duration: .3s
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] p {
+    max-width: 37.5pc
+}
+body input:-moz-placeholder {
+    -ms-transition-duration: .3s
+}
+body input:-moz-placeholder {
+    -o-transition-duration: .3s
+}
+button {
+    width: 1.458333333in
+}
+body input:-moz-placeholder {
+    transition-duration: .3s
+}
+body.nightMode section.portfolio .projects .project .hiddenInfo .awards .award .awardIcon svg * {
+    fill: #fff
+}
+button,
+section [class~=navBackWrapper] a {
+    text-align: center
+}
+section [class~=navBackWrapper] [class~=closeIcon]:before {
+    -moz-transform: rotate(45deg)
+}
+section[class~=portfolio] [class~=projects] [class~=project] [class~=cover] {
+    height: 2.916666667in
+}
+button {
+    height: 40px
+}
+body input:-moz-placeholder {
+    -webkit-transition-timing-function: linear
+}
+section[class~=portfolio] [class~=projects] [class~=project]:after,
+section[class~=portfolio] [class~=projects] [class~=project][class~=active]:after {
+    margin-right: auto
+}
+button {
+    background: #121212
+}
+button {
+    font-size: 12px
+}
+section[class~=error] [class~=inner] {
+    position: relative
+}
+button {
+    font-weight: 400
+}
+body input:-moz-placeholder {
+    -moz-transition-timing-function: linear
+}
+section [class~=navBackWrapper] a {
+    width: 75.75pt
+}
+section[class~=portfolio] [class~=projects] [class~=project] [class~=cover] {
+    background-size: cover
+}
+section[class~=portfolio] [class~=projects] [class~=project]:after,
+section[class~=portfolio] [class~=projects] [class~=project][class~=active]:after {
+    margin-top: auto
+}
+section[class~=portfolio] [class~=projects] [class~=project] [class~=cover] {
+    background-position: center center
+}
+[class~=swiper-pagination] [class~=swiper-pagination-bullet] {
+    margin-bottom: 0!important
+}
+section[class~=error] [class~=inner] {
+    padding-left: 0
+}
+body input:-moz-placeholder {
+    -ms-transition-timing-function: linear
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] img {
+    width: 60pc
+}
+body input:-moz-placeholder {
+    -o-transition-timing-function: linear
+}
+[class~=bullet]:before,
+section[class~=portfolio] [class~=projects] [class~=project]:after,
+section[class~=error]:before {
+    position: absolute
+}
+[class~=bullet]:before {
+    width: 27pt
+}
+section [class~=navBackWrapper] [class~=closeIcon]:before {
+    -ms-transform: rotate(45deg)
+}
+body input:-moz-placeholder {
+    transition-timing-function: linear
+}
+section[class~=portfolio]:after,
+section[class~=error]:before {
+    content: ""
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] img {
+    margin-left: -1.875in
+}
+section[class~=portfolio] [class~=projects] [class~=project] {
+    -moz-transition: width 1s, transform 0s, padding-right 1s, opacity 1s
+}
+section[class~=portfolio] [class~=projects] [class~=project]:after {
+    right: 22.9375pc
+}
+section [class~=navBackWrapper] [class~=closeIcon]:before {
+    -o-transform: rotate(45deg)
+}
+section[class~=portfolio]:after {
+    display: inline-block
+}
+section[class~=portfolio] [class~=projects] [class~=project] {
+    -ms-transition: width 1s, transform 0s, padding-right 1s, opacity 1s
+}
+body textarea:-moz-placeholder {
+    -webkit-transition-property: color, background, fill, border-color
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] img {
+    margin-bottom: 3.125pc
+}
+section[class~=portfolio] [class~=projects] [class~=project] [class~=cover] {
+    margin-left: 3.125pc
+}
+section[class~=portfolio]:after {
+    vertical-align: middle
+}
+body textarea:-moz-placeholder {
+    -moz-transition-property: color, background, fill, border-color
+}
+section[class~=error] [class~=inner] {
+    padding-bottom: 9.375pc
+}
+button {
+    letter-spacing: 1.5pt
+}
+body textarea:-moz-placeholder {
+    -ms-transition-property: color, background, fill, border-color
+}
+section[class~=portfolio]:after,
+section[class~=error]:before {
+    height: 100%
+}
+[class~=bullet]:before {
+    height: 27pt
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo],
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] img {
+    margin-right: -1.875in
+}
+body textarea:-moz-placeholder {
+    -o-transition-property: color, background, fill, border-color
+}
+button {
+    color: #fff
+}
+section[class~=error] [class~=inner] {
+    padding-right: 0
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] {
+    -webkit-transform: translateY(0)
+}
+section[class~=error]:before,
+button,
+section[class~=portfolio] [class~=projects] [class~=project]:after,
+[class~=bullet]:before {
+    display: block
+}
+button {
+    text-transform: uppercase
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active]:before {
+    width: 37.5pc
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] img {
+    margin-top: 3.125pc
+}
+body textarea:-moz-placeholder {
+    transition-property: color, background, fill, border-color
+}
+section[class~=portfolio] [class~=projects] [class~=project]:after {
+    width: 5px
+}
+section[class~=portfolio] [class~=projects] [class~=project]:after {
+    height: 100px
+}
+[class~=bullet]:before {
+    background: #121212
+}
+section[class~=portfolio] [class~=projects] [class~=project]:after {
+    background: #fff
+}
+section[class~=portfolio] [class~=projects] [class~=project]:after {
+    -webkit-box-sizing: border-box!important
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award] [class~=awardIcon] {
+    -moz-transition: all .6s ease
+}
+body textarea:-moz-placeholder {
+    -webkit-transition-duration: .3s
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] img {
+    -webkit-box-shadow: 0 1.875pc 1.041666667in 0 rgba(0, 0, 0, .1)
+}
+section [class~=navBackWrapper] [class~=closeIcon]:before {
+    transform: rotate(45deg)
+}
+body textarea:-moz-placeholder {
+    -moz-transition-duration: .3s
+}
+body textarea:-moz-placeholder {
+    -ms-transition-duration: .3s
+}
+button {
+    line-height: 30pt
+}
+[class~=bullet]:before,
+.bullet,
+header,
+section[class~=error]:before {
+    left: 0
+}
+button {
+    cursor: pointer
+}
+section [class~=navBackWrapper] [class~=closeIcon]:after {
+    -webkit-transform: rotate(-45deg)
+}
+[class~=bullet]:before,
+section[class~=error]:before {
+    top: 0
+}
+section[class~=portfolio] [class~=projects] [class~=project]:after {
+    -moz-box-sizing: border-box!important
+}
+body textarea:-moz-placeholder {
+    -o-transition-duration: .3s
+}
+button {
+    -webkit-transition: all .3s ease
+}
+section[class~=portfolio] [class~=projects] [class~=project]:after {
+    box-sizing: border-box!important
+}
+.bullet {
+    cursor: move
+}
+button {
+    -moz-transition: all .3s ease
+}
+section[class~=error]:before {
+    width: 100%
+}
+[class~=bullet]:before {
+    right: 0
+}
+section[class~=portfolio] [class~=projects] [class~=project]:before {
+    -webkit-transition: all 1s ease
+}
+section[class~=portfolio] [class~=projects] [class~=project] {
+    -o-transition: width 1s, transform 0s, padding-right 1s, opacity 1s
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award] [class~=awardText] [class~=textWrapper] {
+    line-height: .3125in
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] {
+    -moz-transform: translateY(0)
+}
+section[class~=error]:before {
+    background: url(../img/errorBg.png)
+}
+body textarea:-moz-placeholder {
+    transition-duration: .3s
+}
+section [class~=navBackWrapper] [class~=closeIcon]:after {
+    -moz-transform: rotate(-45deg)
+}
+section[class~=error] [class~=inner] {
+    padding-top: 9.375pc
+}
+section[class~=error]:before {
+    background-position: center center
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] img {
+    -moz-box-shadow: 0 22.5pt 1.041666667in 0 rgba(0, 0, 0, .1)
+}
+section[class~=portfolio] [class~=projects] [class~=project] {
+    transition: width 1s, transform 0s, padding-right 1s, opacity 1s
+}
+section[class~=main] [class~=scrollWrapper] a [class~=arrow]:after {
+    -ms-transform-origin: right
+}
+[class~=loaded] [class~=preloader] img,
+[class~=loaded] [class~=preloader] svg {
+    opacity: 1
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo],
+[class~=bullet]:before {
+    margin-top: auto
+}
+button {
+    transition: all .3s ease
+}
+[class~=bullet]:before {
+    bottom: 0
+}
+body textarea:-moz-placeholder {
+    -webkit-transition-timing-function: linear
+}
+section[class~=portfolio] [class~=projects] [class~=project] [class~=info][class~=hide] {
+    opacity: 0
+}
+[class~=bullet]:before,
+button {
+    margin-left: auto
+}
+section[class~=portfolio] [class~=projects] [class~=project]:before {
+    -moz-transition: all 1s ease
+}
+section[class~=portfolio] [class~=projects] [class~=project]:before {
+    transition: all 1s ease
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] {
+    -ms-transform: translateY(0)
+}
+section[class~=portfolio] [class~=projects] [class~=project]:after {
+    -webkit-transition: width 1s, height 1s, top 0s, right 0s, background .3s linear
+}
+button {
+    margin-bottom: 0
+}
+[class~=bullet]:before {
+    margin-bottom: auto
+}
+section[class~=error]:before {
+    background-repeat: no-repeat
+}
+[class~=bullet]:before,
+button {
+    margin-right: auto
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] {
+    -o-transform: translateY(0)
+}
+[class~=swiper-pagination] [class~=swiper-pagination-bullet]:after {
+    content: ""
+}
+body textarea:-moz-placeholder {
+    -moz-transition-timing-function: linear
+}
+section[class~=error]:before {
+    filter: blur(20px)
+}
+body textarea:-moz-placeholder {
+    -ms-transition-timing-function: linear
+}
+button {
+    margin-top: 30pt
+}
+[class~=swiper-pagination] [class~=swiper-pagination-bullet]:after {
+    display: block
+}
+section[class~=error]:before {
+    -webkit-filter: blur(20px)
+}
+a {
+    text-decoration: none;
+    color: #121212
+}
+section[class~=error]:before {
+    -moz-filter: blur(20px)
+}
+header,
+footer {
+    position: fixed
+}
+header {
+    top: 0
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] {
+    transform: translateY(0)
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award]:hover [class~=awardIcon] {
+    filter: blur(5px)
+}
+[class~=bullet]:before {
+    border-radius: 100%
+}
+section[class~=error]:before {
+    -o-filter: blur(20px)
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] {
+    display: inline-block!important
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active]:before {
+    height: 105pt
+}
+section[class~=error]:before {
+    -ms-filter: blur(20px)
+}
+body textarea:-moz-placeholder {
+    -o-transition-timing-function: linear
+}
+section[class~=error] h1 {
+    font-size: .9375in
+}
+[class~=bullet]:before {
+    box-shadow: 0 .020833333in .3125pc 0 rgba(0, 0, 0, .4)
+}
+body textarea:-moz-placeholder {
+    transition-timing-function: linear
+}
+[class~=bullet]:after {
+    -webkit-transition: transform .3s ease
+}
+[class~=swiper-pagination] [class~=swiper-pagination-bullet]:after,
+header,
+footer,
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] {
+    width: 100%
+}
+[class~=swiper-pagination] [class~=swiper-pagination-bullet]:after,
+[class~=bullet]:after,
+[class~=pagination] {
+    position: absolute
+}
+header {
+    font-size: 0
+}
+header {
+    z-index: 3
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] {
+    position: relative
+}
+section[class~=form] [class~=desc][class~=showFade] {
+    letter-spacing: .066666667in
+}
+section[class~=portfolio] [class~=projects] [class~=project]:after {
+    -moz-transition: width 1s, height 1s, top 0s, right 0s, background .3s linear
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=preActive] [class~=info] {
+    max-width: 0!important
+}
+footer {
+    bottom: 0
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=preActive] [class~=cover] {
+    margin-left: 0
+}
+[class~=bullet]:after {
+    -moz-transition: transform .3s ease
+}
+body input:-ms-input-placeholder {
+    -webkit-transition-property: color, background, fill, border-color
+}
+section[class~=error] [class~=navBackWrapper] [class~=text] {
+    letter-spacing: 33pt
+}
+footer,
+[class~=bullet]:after {
+    left: 0
+}
+[class~=bullet]:after {
+    transition: transform .3s ease
+}
+[class~=swiper-pagination] [class~=swiper-pagination-bullet] {
+    margin-right: 0!important
+}
+body input:-ms-input-placeholder {
+    -moz-transition-property: color, background, fill, border-color
+}
+section[class~=error] h1 {
+    line-height: 90px
+}
+section[class~=main] [class~=scrollWrapper] a [class~=arrow]:after {
+    -o-transform-origin: right
+}
+section[class~=main] [class~=scrollWrapper] a [class~=arrow]:after {
+    transform-origin: right
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] {
+    max-width: 6.25in
+}
+body input:-ms-input-placeholder {
+    -ms-transition-property: color, background, fill, border-color
+}
+body input:-ms-input-placeholder {
+    -o-transition-property: color, background, fill, border-color
+}
+[class~=pagination] {
+    bottom: 25%
+}
+section[class~=error] h1 {
+    font-weight: 700
+}
+body input:-ms-input-placeholder {
+    transition-property: color, background, fill, border-color
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=preActive] [class~=cover] {
+    width: 400px
+}
+[class~=bullet]:after {
+    content: ""
+}
+[class~=swiper-pagination] [class~=swiper-pagination-bullet]:after {
+    height: 1px
+}
+[class~=swiper-pagination] [class~=swiper-pagination-bullet]:after,
+[class~=bullet]:after {
+    background: #121212
+}
+[class~=bullet]:after {
+    width: 27pt
+}
+[class~=swiper-pagination] [class~=swiper-pagination-bullet]:first-child:after,
+[class~=swiper-pagination] [class~=swiper-pagination-bullet]:last-child:after {
+    width: 50%
+}
+section[class~=portfolio] [class~=projects] [class~=project]:after {
+    -ms-transition: width 1s, height 1s, top 0s, right 0s, background .3s linear
+}
+[class~=pagination] {
+    width: 225pt
+}
+[class~=swiper-pagination] [class~=swiper-pagination-bullet]:after {
+    margin-top: 13.5pt
+}
+section[class~=error] h1 {
+    text-align: center
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active],
+[class~=pagination] {
+    margin-left: auto
+}
+section[class~=error] h1 {
+    letter-spacing: .020833333in
+}
+body input:-ms-input-placeholder {
+    -webkit-transition-duration: .3s
+}
+[class~=bullet]:after,
+[class~=swiper-pagination] [class~=swiper-pagination-bullet]:first-child:after {
+    right: 0
+}
+section [class~=navBackWrapper] [class~=closeIcon]:after {
+    -ms-transform: rotate(-45deg)
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] img+h3 {
+    margin-top: .625pc
+}
+section[class~=error] h1 {
+    margin-left: 0
+}
+body input:-ms-input-placeholder {
+    -moz-transition-duration: .3s
+}
+[class~=bullet]:after {
+    height: 27pt
+}
+footer {
+    font-size: 0
+}
+#awwwards a {
+    height: 135px
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] img {
+    box-shadow: 0 1.875pc 75pt 0 rgba(0, 0, 0, .1)
+}
+.bullet.ui-draggable-dragging:before {
+    -webkit-transform: scale(1.15)
+}
+[class~=bullet]:after {
+    display: block
+}
+[class~=pagination],
+section[class~=error] h1 {
+    margin-bottom: 0
+}
+footer {
+    z-index: 3
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award]:hover [class~=awardIcon] {
+    -webkit-filter: blur(5px)
+}
+body input:-ms-input-placeholder {
+    -ms-transition-duration: .3s
+}
+section [class~=navBackWrapper] [class~=closeIcon]:after {
+    -o-transform: rotate(-45deg)
+}
+body {
+    -webkit-transition-property: color, background, fill, border-color
+}
+body {
+    -moz-transition-property: color, background, fill, border-color
+}
+body {
+    -ms-transition-property: color, background, fill, border-color
+}
+body input:-ms-input-placeholder {
+    -o-transition-duration: .3s
+}
+body {
+    -o-transition-property: color, background, fill, border-color
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=preActive] [class~=cover] {
+    height: 10pc
+}
+[class~=bullet]:after,
+[class~=pagination] {
+    margin-right: auto
+}
+.bullet.ui-draggable-dragging:before {
+    -moz-transform: scale(1.15)
+}
+body input:-ms-input-placeholder {
+    transition-duration: .3s
+}
+body {
+    transition-property: color, background, fill, border-color
+}
+.bullet.ui-draggable-dragging:before {
+    -ms-transform: scale(1.15)
+}
+body {
+    -webkit-transition-duration: .3s
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award]:hover [class~=awardIcon] {
+    -moz-filter: blur(5px)
+}
+body {
+    -moz-transition-duration: .3s
+}
+body input:-ms-input-placeholder {
+    -webkit-transition-timing-function: linear
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=prePreUnActive] [class~=cover],
+section[class~=portfolio] [class~=projects] [class~=project][class~=preUnActive] [class~=cover] {
+    position: relative
+}
+[class~=bullet]:after {
+    top: 0
+}
+body input:-ms-input-placeholder {
+    -moz-transition-timing-function: linear
+}
+body {
+    -ms-transition-duration: .3s
+}
+.bullet.ui-draggable-dragging:before {
+    -o-transform: scale(1.15)
+}
+body {
+    -o-transition-duration: .3s
+}
+body input:-ms-input-placeholder {
+    -ms-transition-timing-function: linear
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] video {
+    width: 60pc
+}
+section [class~=navBackWrapper] [class~=closeIcon]:after {
+    transform: rotate(-45deg)
+}
+body input:-ms-input-placeholder {
+    -o-transition-timing-function: linear
+}
+[class~=bullet]:after {
+    bottom: 0
+}
+body input:-ms-input-placeholder {
+    transition-timing-function: linear
+}
+section[class~=error] h1 {
+    margin-right: 0
+}
+body {
+    transition-duration: .3s
+}
+[class~=pagination],
+section[class~=error] h1,
+section[class~=error] h2 {
+    margin-top: 0
+}
+section[class~=portfolio] [class~=projects] [class~=project]:after {
+    -o-transition: width 1s, height 1s, top 0s, right 0s, background .3s linear
+}
+[class~=bullet]:after {
+    margin-left: auto
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=preUnActive] [class~=cover] {
+    width: 2.083333333in
+}
+body {
+    -webkit-transition-timing-function: linear
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award]:hover [class~=awardIcon] {
+    -o-filter: blur(5px)
+}
+body {
+    -moz-transition-timing-function: linear
+}
+body textarea:-ms-input-placeholder {
+    -webkit-transition-property: color, background, fill, border-color
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] video {
+    margin-left: -1.875in
+}
+body textarea:-ms-input-placeholder {
+    -moz-transition-property: color, background, fill, border-color
+}
+section[class~=error] h2 {
+    font-size: .104166667in
+}
+body textarea:-ms-input-placeholder {
+    -ms-transition-property: color, background, fill, border-color
+}
+section[class~=error] h2 {
+    font-weight: 400
+}
+[class~=pagination],
+[class~=swiper-pagination] [class~=swiper-pagination-bullet]:last-child:after {
+    left: 0
+}
+body {
+    -ms-transition-timing-function: linear
+}
+body textarea:-ms-input-placeholder {
+    -o-transition-property: color, background, fill, border-color
+}
+[class~=pagination] {
+    right: 0
+}
+[class~=bullet]:after,
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] {
+    margin-bottom: auto
+}
+.bullet.ui-draggable-dragging:before {
+    transform: scale(1.15)
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] video {
+    margin-bottom: 3.125pc
+}
+body textarea:-ms-input-placeholder {
+    transition-property: color, background, fill, border-color
+}
+body {
+    -o-transition-timing-function: linear
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=preUnActive] [class~=cover] {
+    height: 210pt
+}
+[class~=bullet]:after,
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] {
+    margin-top: auto
+}
+section[class~=error] h2 {
+    text-align: center
+}
+[class~=bullet]:after {
+    border-radius: 100%
+}
+[class~=swiper-pagination] [class~=swiper-pagination-bullet] {
+    margin-top: 0!important
+}
+section[class~=portfolio] [class~=projects] [class~=project]:after {
+    transition: width 1s, height 1s, top 0s, right 0s, background .3s linear
+}
+section[class~=error] h2 {
+    line-height: .75pc
+}
+body {
+    transition-timing-function: linear
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] video {
+    margin-right: -1.875in
+}
+section[class~=error] h2 {
+    letter-spacing: 4.875pt
+}
+section[class~=error] h2 {
+    text-transform: uppercase
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active]:before {
+    top: 6.5625pc
+}
+[class~=swiper-pagination] [class~=swiper-pagination-bullet] {
+    height: 36px
+}
+section[class~=error] h2 {
+    margin-left: 0
+}
+body::-moz-selection {
+    background: #121212;
+    color: #fff
+}
+[class~=swiper-pagination] [class~=swiper-pagination-bullet],
+section {
+    position: relative
+}
+section,
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] {
+    padding-left: 0
+}
+[class~=bullet]:after {
+    box-shadow: 0 .020833333in .3125pc 0 rgba(0, 0, 0, .4)
+}
+[class~=bullet]:before {
+    opacity: .07
+}
+[class~=bullet]:after {
+    width: 15pt
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] video {
+    margin-top: 3.125pc
+}
+section[class~=error] h2 {
+    margin-bottom: 0
+}
+section[class~=error] h2 {
+    margin-right: 0
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=preUnActive] [class~=cover] {
+    margin-left: 0
+}
+[class~=bullet][class~=ui-draggable-dragging]:after {
+    -webkit-transform: scale(1.15)
+}
+section {
+    padding-bottom: .3125in
+}
+section,
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] {
+    padding-right: 0
+}
+[class~=bullet]:after {
+    height: 1.25pc
+}
+section {
+    padding-top: .3125in
+}
+section {
+    vertical-align: top
+}
+body textarea:-ms-input-placeholder {
+    -webkit-transition-duration: .3s
+}
+body {
+    -webkit-transform-style: preserve-3d
+}
+[class~=bullet][class~=ui-draggable-dragging]:after {
+    -moz-transform: scale(1.15)
+}
+body {
+    -moz-transform-style: preserve-3d
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] video {
+    -webkit-box-shadow: 0 1.875pc 1.041666667in 0 rgba(0, 0, 0, .1)
+}
+section.portfolio .projects .project.active:after {
+    width: 4.791666667in
+}
+body {
+    -ms-transform-style: preserve-3d
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] {
+    margin-right: auto
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award] [class~=awardIcon] {
+    transition: all .6s ease
+}
+[class~=bullet][class~=ui-draggable-dragging]:after {
+    -ms-transform: scale(1.15)
+}
+body textarea:-ms-input-placeholder {
+    -moz-transition-duration: .3s
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=preUnActive] [class~=cover] {
+    margin-right: 0
+}
+body {
+    transform-style: preserve-3d
+}
+body textarea:-ms-input-placeholder {
+    -ms-transition-duration: .3s
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] {
+    padding-bottom: 3.4375pc
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] video {
+    -moz-box-shadow: 0 22.5pt 1.041666667in 0 rgba(0, 0, 0, .1)
+}
+section[class~=main] [class~=scrollWrapper] a {
+    display: block
+}
+[class~=bullet][class~=ui-draggable-dragging]:after {
+    -o-transform: scale(1.15)
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] {
+    padding-top: 14.125pc
+}
+#awwwards a {
+    background-repeat: no-repeat
+}
+body textarea:-ms-input-placeholder {
+    -o-transition-duration: .3s
+}
+[class~=swiper-pagination] [class~=swiper-pagination-bullet] {
+    opacity: 1!important
+}
+body textarea:-ms-input-placeholder {
+    transition-duration: .3s
+}
+[class~=bullet][class~=ui-draggable-dragging]:after {
+    transform: scale(1.15)
+}
+section[class~=portfolio] [class~=projects] [class~=project] [class~=info] {
+    text-align: right
+}
+body textarea:-ms-input-placeholder {
+    -webkit-transition-timing-function: linear
+}
+section.portfolio .projects .project.active:after {
+    height: .010416667in
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award]:hover [class~=awardText],
+section[class~=portfolio] [class~=projects] [class~=project] [class~=info] {
+    opacity: 1
+}
+body textarea:-ms-input-placeholder {
+    -moz-transition-timing-function: linear
+}
+section[class~=portfolio] [class~=requestBtnWrapper] a {
+    font-weight: 400
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=preActive] {
+    -webkit-transition: all 1s ease
+}
+section.portfolio .projects .project.active .hiddenInfo .content iframe,
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] video {
+    box-shadow: 0 1.875pc 75pt 0 rgba(0, 0, 0, .1)
+}
+body textarea:-ms-input-placeholder {
+    -ms-transition-timing-function: linear
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=preActive] {
+    -moz-transition: all 1s ease
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=preActive],
+#awwwards {
+    transition: all 1s ease
+}
+section.portfolio .projects .project.active .hiddenInfo .content iframe {
+    width: 60pc
+}
+body.nightMode section.portfolio .projects .project .hiddenInfo .awards .award .awardText .textWrapper:after {
+    border-right-color: transparent
+}
+body textarea:-ms-input-placeholder {
+    -o-transition-timing-function: linear
+}
+section.portfolio .projects .project.active:after {
+    top: 183pt
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=preActive]:before {
+    width: 600px
+}
+section.portfolio .projects .project.active .hiddenInfo .content iframe {
+    margin-left: -1.875in
+}
+body textarea:-ms-input-placeholder {
+    transition-timing-function: linear
+}
+body::selection {
+    background: #121212;
+    color: #fff
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=preActive] {
+    width: 6.25in!important
+}
+#awwwards a {
+    background-size: 90px 1.40625in
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award]:hover [class~=awardIcon] {
+    -ms-filter: blur(5px)
+}
+section[class~=portfolio] [class~=requestBtnWrapper] a {
+    font-size: .125in
+}
+section.portfolio .projects .project.active .hiddenInfo .content iframe {
+    margin-bottom: 3.125pc
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=preActive]:before,
+section[class~=portfolio] [class~=projects] [class~=project][class~=preUnActive]:before {
+    height: 1.458333333in
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=preActive]:before {
+    top: 6.5625pc
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=preActive] {
+    padding-right: 0
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=preUnActive]:before,
+#awwwards {
+    right: 0
+}
+section.portfolio .projects .project.active .hiddenInfo .content iframe {
+    margin-right: -1.875in
+}
+.swiper-slide-active .project .cover {
+    transform: translateZ(100px)
+}
+section.portfolio .projects .project.active .hiddenInfo .content iframe {
+    margin-top: 3.125pc
+}
+section.portfolio .projects .project.active .hiddenInfo .content iframe {
+    -webkit-box-shadow: 0 1.875pc 1.041666667in 0 rgba(0, 0, 0, .1)
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=preActive]:before {
+    margin-left: auto
+}
+section[class~=portfolio] [class~=requestBtnWrapper] a {
+    line-height: .145833333in
+}
+section[class~=portfolio] [class~=requestBtnWrapper] a {
+    letter-spacing: .010416667in
+}
+section[class~=portfolio] [class~=requestBtnWrapper] a {
+    display: inline-block
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] [class~=award]:hover [class~=awardText] {
+    visibility: visible
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=preUnActive],
+section[class~=portfolio] [class~=projects] [class~=project][class~=prePreUnActive] {
+    padding-top: 0
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=preUnActive] {
+    -webkit-transition: width 1s, padding-right 1s, transform 1s, padding-top 0;
+    -moz-transition: width 1s, padding-right 1s, transform 1s, padding-top 0;
+    -ms-transition: width 1s, padding-right 1s, transform 1s, padding-top 0;
+    -o-transition: width 1s, padding-right 1s, transform 1s, padding-top 0;
+    transition: width 1s, padding-right 1s, transform 1s, padding-top 0
+}
+section.portfolio .projects .project.active .hiddenInfo .content iframe {
+    -moz-box-shadow: 0 22.5pt 1.041666667in 0 rgba(0, 0, 0, .1)
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=preUnActive] {
+    width: auto
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=preActive]:before {
+    margin-bottom: auto
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=preUnActive] {
+    padding-right: .364583333in
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=preActive]:before {
+    margin-right: auto
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=preUnActive] {
+    padding-bottom: 135pt
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=preActive]:before {
+    margin-top: auto
+}
+section[class~=portfolio] [class~=requestBtnWrapper] a {
+    text-transform: uppercase
+}
+section[class~=portfolio] [class~=requestBtnWrapper] a {
+    -webkit-transition: all .3s ease
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=prePreUnActive]:after,
+section[class~=portfolio] [class~=projects] [class~=project][class~=hideAfterLine]:after {
+    width: 0
+}
+section[class~=portfolio] [class~=requestBtnWrapper] a {
+    -moz-transition: all .3s ease
+}
+.swiper-slide-active .project.active {
+    -webkit-transform-style: flat
+}
+section[class~=portfolio] [class~=requestBtnWrapper] a {
+    transition: all .3s ease
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=preUnActive]:before {
+    top: 52.5pt
+}
+section[class~=error] [class~=navBackWrapper] a {
+    width: 157.5pt
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=preUnActive]:before {
+    left: auto
+}
+section[class~=portfolio] [class~=projects] [class~=project][class~=preUnActive]:before {
+    width: 23.125pc
+}
+.swiper-slide-active .project.active {
+    -moz-transform-style: flat
+}
+.swiper-slide-active .project.active {
+    -ms-transform-style: flat
+}
+.swiper-slide-active .project.active {
+    transform-style: flat
+}
+body.nightMode section.portfolio .projects .project .hiddenInfo .awards .award .awardText .textWrapper:after {
+    border-top-color: #fff
+}
+body[class~=nightMode] header [class~=logoWrapper] svg * {
+    fill: #fff
+}
+@media only screen and (-Webkit-min-device-pixel-ratio: 1.5),
+only screen and (-moz-min-device-pixel-ratio: 1.5),
+only screen and (-o-min-device-pixel-ratio: 32),
+only screen and (min-device-pixel-ratio: 1.5) {
+    #awwwards[class~=honorable] a {
+        background-image: url(../img/ribbons/awwwards_honorable_white_right@2x.png)
+    }
+    [class~=nightMode] #awwwards[class~=honorable] a {
+        background-image: url(../img/ribbons/awwwards_honorable_black_right@2x.png)
+    }
+}
+@-webkit-keyframes svganimate {
+    to {
+        stroke-dashoffset: 0
+    }
+}
+@-moz-keyframes svganimate {
+    to {
+        stroke-dashoffset: 0
+    }
+}
+@-o-keyframes svganimate {
+    to {
+        stroke-dashoffset: 0
+    }
+}
+@keyframes svganimate {
+    to {
+        stroke-dashoffset: 0
+    }
+}
+[class~=loaded] #logo_z1 {
+    stroke-dasharray: 40;
+    stroke-dashoffset: 40
+}
+#logo_z2,
+#logo_i,
+#logo_z1,
+#logo_p {
+    opacity: 0
+}
+[class~=loaded] #logo_z1 {
+    -webkit-animation: svganimate .9s cubic-bezier(.86, 0, .07, 1) 0 forwards
+}
+#logo_i,
+#logo_z1,
+#logo_z2 {
+    -webkit-transition: opacity .7s
+}
+[class~=loaded] #logo_z1 {
+    -moz-animation: svganimate .9s cubic-bezier(.86, 0, .07, 1) 0 forwards
+}
+#logo_z1,
+#logo_z2 {
+    -moz-transition: opacity .7s
+}
+[class~=loaded] #logo_z1 {
+    -o-animation: svganimate .9s cubic-bezier(.86, 0, .07, 1) 0 forwards
+}
+#logo_z1,
+#logo_z2 {
+    -ms-transition: opacity .7s
+}
+[class~=loaded] #logo_z1 {
+    animation: svganimate .9s cubic-bezier(.86, 0, .07, 1) 0 forwards
+}
+.loaded #logo_z2 {
+    stroke-dasharray: 63;
+    stroke-dashoffset: 63
+}
+[class~=loaded] #logo_i,
+.loaded #logo_z2 {
+    -webkit-animation: svganimate .9s cubic-bezier(.86, 0, .07, 1) .7s forwards;
+    -moz-animation: svganimate .9s cubic-bezier(.86, 0, .07, 1) .7s forwards
+}
+.loaded #logo_z2,
+[class~=loaded] #logo_i {
+    -o-animation: svganimate .9s cubic-bezier(.86, 0, .07, 1) .7s forwards
+}
+#logo_z1,
+#logo_z2 {
+    -o-transition: opacity .7s
+}
+.st1 {
+    -webkit-transition: none
+}
+[class~=loaded] #logo_i,
+.loaded #logo_z2 {
+    animation: svganimate .9s cubic-bezier(.86, 0, .07, 1) .7s forwards
+}
+.loaded #logo_z2,
+[class~=loaded] #logo_i {
+    -webkit-transition-delay: .7s
+}
+.loaded #logo_z2,
+[class~=loaded] #logo_i {
+    -moz-transition-delay: .7s
+}
+.loaded #logo_z2,
+[class~=loaded] #logo_i {
+    -ms-transition-delay: .7s
+}
+.loaded #logo_z2,
+[class~=loaded] #logo_i {
+    -o-transition-delay: .7s
+}
+#logo_z1,
+#logo_z2 {
+    transition: opacity .7s
+}
+.st1 {
+    -moz-transition: none
+}
+.loaded #logo_z2,
+[class~=loaded] #logo_i {
+    transition-delay: .7s
+}
+[class~=loaded] #logo_i {
+    stroke-dasharray: 11;
+    stroke-dashoffset: 11
+}
+[class~=loaded] #logo_p {
+    stroke-dasharray: 57;
+    stroke-dashoffset: 57
+}
+[class~=loaded] #logo_p,
+.loaded #logo_l {
+    -webkit-animation: svganimate .9s cubic-bezier(.86, 0, .07, 1) 1.1s forwards
+}
+.loaded #logo_l,
+[class~=loaded] #logo_p {
+    -moz-animation: svganimate .9s cubic-bezier(.86, 0, .07, 1) 1.1s forwards;
+    -o-animation: svganimate .9s cubic-bezier(.86, 0, .07, 1) 1.1s forwards
+}
+[class~=loaded] #logo_p,
+.loaded #logo_l {
+    animation: svganimate .9s cubic-bezier(.86, 0, .07, 1) 1.1s forwards
+}
+.loaded #logo_l,
+[class~=loaded] #logo_p {
+    -webkit-transition-delay: 1.1s
+}
+.loaded #logo_l,
+[class~=loaded] #logo_p {
+    -moz-transition-delay: 1.1s
+}
+.loaded #logo_l,
+[class~=loaded] #logo_p {
+    -ms-transition-delay: 1.1s
+}
+.loaded #logo_l,
+[class~=loaded] #logo_p {
+    -o-transition-delay: 1.1s
+}
+.loaded #logo_l,
+[class~=loaded] #logo_p {
+    transition-delay: 1.1s
+}
+.loaded #logo_l {
+    stroke-dasharray: 51;
+    stroke-dashoffset: 51
+}
+.st1 {
+    -ms-transition: none
+}
+#logo_i,
+#logo_p {
+    -moz-transition: opacity .7s
+}
+#logo_p,
+#logo_i {
+    -ms-transition: opacity .7s
+}
+#logo_l,
+#logo_i,
+#logo_p {
+    -o-transition: opacity .7s
+}
+[class~=loaded] #logo_i,
+[class~=loaded] #logo_l,
+[class~=loaded] #logo_p,
+[class~=loaded] #logo_z2,
+[class~=loaded] #logo_z1 {
+    opacity: 1
+}
+#logo_l,
+#logo_i,
+#logo_p {
+    transition: opacity .7s
+}
+#logo_l,
+[class~=hide] #logo_l,
+[class~=hide] #logo_z1,
+[class~=hide] #logo_i,
+[class~=hide] #logo_p,
+.hide #logo_z2 {
+    opacity: 0
+}
+[class~=hide] #logo_l,
+.hide #logo_z2,
+[class~=hide] #logo_i,
+[class~=hide] #logo_p,
+[class~=hide] #logo_z1 {
+    -webkit-transition-delay: 0
+}
+[class~=hide] #logo_p,
+.hide #logo_z2,
+[class~=hide] #logo_z1,
+[class~=hide] #logo_i,
+[class~=hide] #logo_l {
+    -moz-transition-delay: 0
+}
+[class~=hide] #logo_z1,
+[class~=hide] #logo_p,
+.hide #logo_z2,
+[class~=hide] #logo_i,
+[class~=hide] #logo_l {
+    -ms-transition-delay: 0
+}
+[class~=hide] #logo_p,
+.hide #logo_z2,
+[class~=hide] #logo_z1,
+[class~=hide] #logo_i,
+[class~=hide] #logo_l {
+    -o-transition-delay: 0
+}
+[class~=hide] #logo_l,
+[class~=hide] #logo_p,
+[class~=hide] #logo_z1,
+.hide #logo_z2,
+[class~=hide] #logo_i {
+    transition-delay: 0
+}
+.st1 {
+    -o-transition: none
+}
+.st1 {
+    transition: none
+}
+#logo_l,
+#logo_p {
+    -webkit-transition: opacity .7s
+}
+#logo_l {
+    -moz-transition: opacity .7s;
+    -ms-transition: opacity .7s
+}
+@-webkit-keyframes showFade {
+    from {
+        opacity: 0
+    }
+    to {
+        opacity: 1
+    }
+}
+@-moz-keyframes showFade {
+    from {
+        opacity: 0
+    }
+    to {
+        opacity: 1
+    }
+}
+@-o-keyframes showFade {
+    from {
+        opacity: 0
+    }
+    to {
+        opacity: 1
+    }
+}
+@keyframes showFade {
+    from {
+        opacity: 0
+    }
+    to {
+        opacity: 1
+    }
+}
+[class~=showFade] {
+    -webkit-animation: showFade 2s forwards;
+    -moz-animation: showFade 2s forwards;
+    -o-animation: showFade 2s forwards;
+    animation: showFade 2s forwards
+}
+@media all and (max-height: 740px) {
+    section[class~=portfolio] [class~=projects] {
+        vertical-align: top;
+        padding: 230px 0 1.041666667in
+    }
+}
+@media all and (max-height: 700px) {
+    [class~=pagination] {
+        bottom: 20%
+    }
+}
+@media all and (max-height: 660px) {
+    [class~=pagination] {
+        bottom: 18%
+    }
+}
+@media all and (max-width: 1279px) {
+    section[class~=main] [class~=content] {
+        padding-left: 1.875pc;
+        text-align: left
+    }
+    section[class~=main] [class~=content] [class~=mainText] {
+        margin-right: 30px
+    }
+}
+@media all and (max-width: 1023px) {
+    section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] img,
+    section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] video,
+    section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo],
+    section.portfolio .projects .project.active .hiddenInfo .content iframe {
+        width: 100%
+    }
+    section.portfolio .projects .project.active .hiddenInfo .content iframe,
+    section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] img,
+    section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] video,
+    section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] {
+        margin-left: auto
+    }
+    section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] video,
+    section.portfolio .projects .project.active .hiddenInfo .content iframe,
+    section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] img {
+        margin-bottom: 3.125pc
+    }
+    section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] {
+        margin-bottom: auto
+    }
+    section.portfolio .projects .project.active .hiddenInfo .content iframe,
+    section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo],
+    section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] video,
+    section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] img {
+        margin-right: auto
+    }
+    section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] video,
+    section.portfolio .projects .project.active .hiddenInfo .content iframe,
+    section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] img {
+        margin-top: 3.125pc
+    }
+    section.main .content .mainText {
+        margin-right: 1.875pc
+    }
+    section[class~=main] [class~=scrollWrapper] [class~=arrow] {
+        width: 45pt
+    }
+    section[class~=main] [class~=content] {
+        width: 65%
+    }
+    section[class~=main] [class~=scrollWrapper] [class~=arrow] {
+        margin-left: .9375pc
+    }
+    section[class~=main] [class~=scrollWrapper] {
+        width: 35%
+    }
+    section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] {
+        margin-top: auto
+    }
+}
+@media all and (max-width: 767px) {
+    footer [class~=copyright],
+    footer .snWrapper,
+    header,
+    footer {
+        position: static
+    }
+    section[class~=main] [class~=content],
+    section[class~=main] [class~=scrollWrapper],
+    section.main .scrollWrapper .inner,
+    section[class~=main] [class~=content] [class~=inner] {
+        display: block
+    }
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] h1,
+    header {
+        padding-left: 22.5pt
+    }
+    footer .snWrapper,
+    section[class~=main] [class~=content],
+    footer [class~=copyright],
+    section[class~=portfolio] [class~=navBackWrapper] a,
+    section[class~=portfolio] [class~=projects] [class~=project]:before,
+    section[class~=main] [class~=scrollWrapper] {
+        width: 100%
+    }
+    body.nightMode section.portfolio .projects .project:after {
+        border-left-color: #1a1a1a
+    }
+    footer [class~=snWrapper] a:nth-child(even) {
+        text-align: right
+    }
+    section[class~=main] [class~=content],
+    section[class~=main] [class~=scrollWrapper],
+    footer .snWrapper,
+    footer [class~=copyright] {
+        float: none
+    }
+    section[class~=main] [class~=scrollWrapper],
+    section[class~=main] [class~=content],
+    section.main .content .mainText,
+    footer [class~=copyright] {
+        text-align: center
+    }
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] [class~=project][class~=active]:before,
+    header .modes span,
+    section[class~=main] [class~=content] [class~=mainText] [class~=separator],
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=awards] {
+        display: none
+    }
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=cover] {
+        width: 2.708333333in
+    }
+    footer [class~=snWrapper] a:nth-child(odd) {
+        text-align: left
+    }
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=cover] {
+        height: 1.666666667in
+    }
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] h1 {
+        padding-bottom: 0
+    }
+    section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] img {
+        -webkit-box-shadow: none
+    }
+    section[class~=main] [class~=content] [class~=mainText] [class~=desc] {
+        margin-top: 11.25pt
+    }
+    section[class~=main] [class~=content] [class~=mainText] [class~=requestBtn],
+    section.main .content .mainText,
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=links],
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=navBackWrapper] {
+        margin-left: auto
+    }
+    section[class~=main] [class~=scrollWrapper],
+    section[class~=main] [class~=content] {
+        height: auto
+    }
+    section[class~=main] [class~=content] [class~=mainText] [class~=desc] {
+        text-align: justify
+    }
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] h1,
+    header {
+        padding-right: 22.5pt
+    }
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=cover],
+    section[class~=portfolio] [class~=projects] [class~=project]:before {
+        top: 0
+    }
+    section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] img {
+        -moz-box-shadow: none
+    }
+    section[class~=main] [class~=content] [class~=mainText] [class~=requestBtn] {
+        max-width: 2.083333333in
+    }
+    body.nightMode section.portfolio .projects .project:after {
+        border-bottom-color: #1a1a1a
+    }
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=navBackWrapper],
+    footer [class~=snWrapper] a {
+        margin-bottom: 0
+    }
+    section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] img {
+        box-shadow: none
+    }
+    section[class~=portfolio] [class~=projects] [class~=project]:before,
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=cover] {
+        left: 0
+    }
+    header,
+    footer {
+        padding-bottom: .3125in
+    }
+    footer [class~=snWrapper] {
+        font-size: 0;
+        letter-spacing: 0;
+        margin-bottom: 25px
+    }
+    section.main .content .mainText,
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=links],
+    section[class~=form] [class~=navBackWrapper],
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=navBackWrapper] {
+        margin-right: auto
+    }
+    section[class~=main] [class~=content] {
+        padding-left: 0
+    }
+    section[class~=portfolio][class~=singlemode] {
+        overflow: visible
+    }
+    body.nightMode section.portfolio .projects .project:after {
+        border-right-color: #1a1a1a
+    }
+    footer [class~=snWrapper] a {
+        margin-left: 0
+    }
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] h1 {
+        padding-top: 0
+    }
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=links] {
+        margin-bottom: .208333333in
+    }
+    section[class~=portfolio] [class~=projects] [class~=project]:before {
+        height: 150px
+    }
+    header {
+        padding-top: .3125in
+    }
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=navBackWrapper] {
+        margin-top: -3.4375pc
+    }
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=requestBtnWrapper] {
+        margin-bottom: 10px
+    }
+    section[class~=portfolio] [class~=projects],
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content],
+    section[class~=portfolio],
+    section[class~=main] {
+        padding-left: 0
+    }
+    section[class~=main] {
+        padding-bottom: 1.25pc
+    }
+    section[class~=portfolio] [class~=projects],
+    section[class~=portfolio],
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content],
+    section[class~=main] {
+        padding-right: 0
+    }
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=cover] {
+        right: 0
+    }
+    section.main .content .mainText {
+        margin-bottom: 52.5pt
+    }
+    section.portfolio .requestBtnWrapper,
+    section[class~=portfolio] [class~=navBackWrapper] {
+        position: static
+    }
+    section[class~=main] {
+        padding-top: 1.25pc
+    }
+    footer,
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] h2 {
+        padding-left: 1.875pc
+    }
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=links] {
+        margin-top: .208333333in
+    }
+    section[class~=portfolio] [class~=navBackWrapper],
+    section[class~=form] [class~=navBackWrapper] {
+        width: 50px
+    }
+    section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] video {
+        -webkit-box-shadow: none
+    }
+    section[class~=portfolio] [class~=navBackWrapper] {
+        margin-top: -.572916667in
+    }
+    section[class~=portfolio] [class~=pagination] {
+        display: none
+    }
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects],
+    section[class~=portfolio] [class~=projects] {
+        margin-top: 0
+    }
+    section[class~=main] [class~=content] [class~=features],
+    section[class~=main] {
+        text-align: center
+    }
+    section[class~=portfolio] [class~=navBackWrapper] a {
+        overflow: hidden
+    }
+    section[class~=form] [class~=form-group],
+    section[class~=form] [class~=outer],
+    section[class~=portfolio],
+    section[class~=portfolio] [class~=projects] {
+        padding-bottom: 0
+    }
+    section[class~=main] {
+        overflow: auto
+    }
+    footer [class~=snWrapper] a {
+        margin-right: 0
+    }
+    body,
+    section[class~=main] {
+        height: auto
+    }
+    section.main .content .mainText {
+        margin-top: .520833333in
+    }
+    section.main .content .mainText {
+        max-width: 16.25pc
+    }
+    section[class~=main] [class~=content] [class~=mainText] [class~=requestBtn] {
+        margin-bottom: 0
+    }
+    section[class~=portfolio] [class~=projects] [class~=project]:after,
+    section.form .navBackWrapper a {
+        width: 100%
+    }
+    header:after {
+        content: ""
+    }
+    footer,
+    section[class~=form] [class~=form-group] {
+        padding-right: 1.875pc
+    }
+    section[class~=portfolio] [class~=projects] {
+        padding-top: 3.125pc
+    }
+    header:after,
+    section.main .content .mainText {
+        display: block
+    }
+    section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] video {
+        -moz-box-shadow: none
+    }
+    body[class~=showPortfolio] section[class~=main] {
+        max-height: 0
+    }
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] {
+        padding-bottom: .3125in
+    }
+    section[class~=portfolio],
+    section[class~=form] [class~=form-group] {
+        padding-top: 0
+    }
+    section.portfolio .requestBtnWrapper {
+        margin-bottom: 25px
+    }
+    body[class~=nightMode] section[class~=form] {
+        background: #121212
+    }
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content],
+    footer {
+        padding-top: 1.875pc
+    }
+    section[class~=portfolio] {
+        overflow: visible
+    }
+    section[class~=portfolio] [class~=projects] [class~=project]:before {
+        bottom: auto
+    }
+    body.nightMode section.portfolio .projects .project:after {
+        border-top-color: #1a1a1a
+    }
+    section[class~=form] [class~=navBackWrapper] {
+        position: static
+    }
+    section[class~=main] [class~=scrollWrapper] [class~=arrow] {
+        width: 6.25pc
+    }
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=cover],
+    section[class~=form] [class~=navBackWrapper] {
+        margin-left: auto
+    }
+    section[class~=form] [class~=navBackWrapper] {
+        margin-bottom: auto
+    }
+    section[class~=form] [class~=navBackWrapper] {
+        margin-top: auto
+    }
+    footer [class~=snWrapper] a {
+        margin-top: 0
+    }
+    footer [class~=snWrapper] a {
+        width: 50%
+    }
+    section[class~=form] [class~=form-group] {
+        padding-left: 22.5pt
+    }
+    html,
+    body {
+        overflow-x: hidden
+    }
+    section[class~=portfolio] [class~=projects] [class~=project]:after {
+        height: 5pc
+    }
+    section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] iframe,
+    section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] video {
+        box-shadow: none
+    }
+    section[class~=form] [class~=title] {
+        font-size: 1.375pc
+    }
+    section[class~=main] [class~=content] [class~=mainText] [class~=requestBtn] {
+        margin-right: auto
+    }
+    section[class~=form] [class~=title] {
+        line-height: .229166667in
+    }
+    section[class~=form] [class~=title] {
+        letter-spacing: .010416667in
+    }
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] {
+        margin-left: 0
+    }
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] {
+        margin-bottom: 1.875pc
+    }
+    section[class~=main] [class~=content] [class~=mainText] [class~=requestBtn] {
+        margin-top: 30px
+    }
+    section[class~=portfolio] [class~=projects] [class~=project]:after,
+    body.nightMode section.portfolio .projects .project:after {
+        background: 0
+    }
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] {
+        margin-right: 0
+    }
+    section[class~=form] [class~=desc] {
+        letter-spacing: .020833333in
+    }
+    html {
+        overflow-y: auto
+    }
+    section[class~=form] [class~=outer],
+    section[class~=portfolio] [class~=projects] [class~=swiper-slide],
+    section[class~=portfolio] [class~=projects] [class~=swiper-wrapper],
+    section[class~=portfolio] {
+        height: auto
+    }
+    footer [class~=snWrapper] a {
+        display: inline-block
+    }
+    section[class~=form] [class~=outer],
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] {
+        padding-left: 0
+    }
+    section[class~=form] {
+        background: #fff
+    }
+    section[class~=main] {
+        max-height: 675pt
+    }
+    section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] iframe {
+        -webkit-box-shadow: none
+    }
+    section[class~=portfolio] [class~=navBackWrapper] [class~=text] {
+        letter-spacing: .34375pc
+    }
+    header:after {
+        clear: both
+    }
+    section[class~=main] {
+        -webkit-transition: max-height 1s
+    }
+    section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] iframe {
+        -moz-box-shadow: none
+    }
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects],
+    section[class~=form] [class~=outer] {
+        padding-right: 0
+    }
+    section[class~=form] [class~=outer] {
+        padding-top: .3125in
+    }
+    section.portfolio:after,
+    section[class~=portfolio] [class~=navBackWrapper] [class~=vertSeparatop] {
+        display: none
+    }
+    section[class~=main] {
+        -moz-transition: max-height 1s
+    }
+    section[class~=error],
+    section.error .inner,
+    section[class~=error] [class~=navBackWrapper] a,
+    section[class~=form] [class~=outer] {
+        display: block
+    }
+    section[class~=error],
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] h2,
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects],
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] h3 {
+        padding-bottom: 0
+    }
+    section[class~=portfolio] [class~=navBackWrapper] [class~=closeIcon] {
+        margin-top: 1.875pc
+    }
+    input {
+        padding-left: .083333333in
+    }
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] h2,
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] h3 {
+        padding-right: 22.5pt
+    }
+    section[class~=portfolio] [class~=projects] [class~=swiper-slide] {
+        width: 187.5pt
+    }
+    section[class~=portfolio] [class~=projects] [class~=project]:after {
+        top: 15pt
+    }
+    input {
+        padding-bottom: 1.125pc
+    }
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] h2,
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] h3 {
+        padding-top: 0
+    }
+    body[class~=showForm] [class~=mainWrapper] {
+        filter: none
+    }
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] {
+        margin-top: 0
+    }
+    body[class~=showForm] [class~=mainWrapper] {
+        -webkit-filter: none
+    }
+    section[class~=portfolio] [class~=projects] [class~=project] [class~=info] {
+        text-align: center
+    }
+    body[class~=showForm] [class~=mainWrapper] {
+        -moz-filter: none
+    }
+    section[class~=portfolio] [class~=projects] [class~=project] {
+        padding-left: 11.25pt
+    }
+    body[class~=showForm] [class~=mainWrapper] {
+        -o-filter: none
+    }
+    section[class~=portfolio] [class~=projects] [class~=project] {
+        padding-bottom: 60pt
+    }
+    section[class~=portfolio] [class~=projects] [class~=project] {
+        padding-right: 11.25pt
+    }
+    body[class~=showForm] [class~=mainWrapper] {
+        -ms-filter: none
+    }
+    section[class~=error] [class~=navBackWrapper],
+    header>div {
+        position: static
+    }
+    section[class~=portfolio] [class~=projects] [class~=project]:after {
+        left: 0
+    }
+    footer [class~=snWrapper] a {
+        vertical-align: middle
+    }
+    section[class~=error] [class~=navBackWrapper] {
+        width: 37.5pt
+    }
+    footer [class~=snWrapper] a {
+        font-size: 10px
+    }
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] h3,
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] p {
+        padding-left: 22.5pt
+    }
+    section[class~=main] {
+        -ms-transition: max-height 1s
+    }
+    section[class~=main] {
+        -o-transition: max-height 1s
+    }
+    section[class~=error],
+    section.error .inner,
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] [class~=project][class~=active] {
+        padding-left: 0
+    }
+    section[class~=portfolio] [class~=projects] [class~=project] {
+        padding-top: .364583333in
+    }
+    section[class~=main] {
+        transition: max-height 1s
+    }
+    section[class~=portfolio] [class~=projects] [class~=project] [class~=cover] {
+        margin-left: auto
+    }
+    footer [class~=snWrapper] a {
+        letter-spacing: .0625pc
+    }
+    section.error .inner,
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] [class~=project][class~=active] {
+        padding-bottom: 45pt
+    }
+    section[class~=portfolio] [class~=projects] [class~=project] [class~=cover] {
+        margin-bottom: 0
+    }
+    section[class~=portfolio] [class~=projects] [class~=project]:after {
+        right: 0
+    }
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] [class~=project][class~=active],
+    section.error .inner,
+    section[class~=error] {
+        padding-right: 0
+    }
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] {
+        padding-top: 50px
+    }
+    section.error .inner {
+        padding-top: 45pt
+    }
+    section[class~=error] [class~=navBackWrapper] a {
+        margin-top: -55px
+    }
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=cover] {
+        margin-bottom: auto
+    }
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=cover],
+    section[class~=portfolio] [class~=projects] [class~=project] [class~=cover] {
+        margin-right: auto
+    }
+    section[class~=portfolio] [class~=projects] [class~=project]:after {
+        bottom: auto
+    }
+    section[class~=portfolio] [class~=projects] [class~=project] [class~=cover] {
+        margin-top: 17px
+    }
+    section[class~=portfolio] [class~=projects] [class~=project] {
+        width: 13.125pc
+    }
+    section[class~=error],
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] p {
+        padding-top: 0
+    }
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] [class~=project][class~=active]:after,
+    #awwwards,
+    section[class~=error]:before,
+    [class~=grain],
+    section[class~=form] [class~=navBackWrapper] [class~=vertSeparatop] {
+        display: none
+    }
+    section[class~=portfolio] [class~=projects] [class~=project]:after {
+        border-left-width: .75pt
+    }
+    section[class~=form] [class~=navBackWrapper] [class~=closeIcon] {
+        margin-top: 22.5pt
+    }
+    section.form .outer .inner,
+    section[class~=portfolio] [class~=projects] [class~=project] [class~=cover] {
+        display: block
+    }
+    section[class~=portfolio] [class~=projects] [class~=project] [class~=cover] {
+        width: 11.25pc
+    }
+    section[class~=portfolio] [class~=projects] [class~=project] [class~=cover] {
+        height: 120px
+    }
+    textarea,
+    input {
+        padding-right: .083333333in
+    }
+    section[class~=portfolio] [class~=projects] [class~=project]:after {
+        border-left-style: solid
+    }
+    textarea,
+    input {
+        padding-top: 1.125pc
+    }
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=cover] {
+        margin-top: auto
+    }
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] p {
+        padding-bottom: 0
+    }
+    section[class~=form] [class~=desc][class~=showFade] {
+        letter-spacing: .1125pc
+    }
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] [class~=project][class~=active] {
+        padding-top: 1.979166667in
+    }
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=hiddenInfo] [class~=content] p {
+        padding-right: 22.5pt
+    }
+    textarea {
+        padding-left: .083333333in
+    }
+    .mainWrapper,
+    section.form .outer .inner {
+        height: auto
+    }
+    section[class~=portfolio] [class~=projects] [class~=project]:after {
+        border-left-color: #fff
+    }
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=title] {
+        font-size: 13.5pt
+    }
+    section[class~=portfolio] [class~=projects] [class~=project]:after {
+        border-image: none
+    }
+    textarea {
+        padding-bottom: 1.125pc
+    }
+    section[class~=portfolio] [class~=projects] [class~=project]:after {
+        border-right-width: .010416667in
+    }
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] [class~=swiper-slide],
+    section[class~=error] [class~=navBackWrapper] a {
+        width: 100%
+    }
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=title] {
+        line-height: .114583333in
+    }
+    section[class~=error] [class~=navBackWrapper] a {
+        overflow: hidden
+    }
+    body[class~=showPortfolio][class~=showProject] section[class~=portfolio] [class~=projects] [class~=project][class~=active] [class~=title] {
+        letter-spacing: 1px
+    }
+    body[class~=showForm] footer,
+    body[class~=showForm] header {
+        opacity: 0
+    }
+    section[class~=portfolio] [class~=projects] [class~=project]:after {
+        border-right-style: solid
+    }
+    section[class~=portfolio] [class~=projects] [class~=project]:after {
+        border-right-color: #fff
+    }
+    section[class~=error] [class~=navBackWrapper] a [class~=label] {
+        white-space: nowrap
+    }
+    section.error .navBackWrapper a .text {
+        letter-spacing: .3125pc
+    }
+}
